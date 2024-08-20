@@ -19,6 +19,7 @@
 一咬脱离 yi'yao'tuo'li 3
 一家之母 yi'jia'zhi'mu 3
 一小步 yi'xiao'bu 3
+一心一念 yi'xin'yi'nian 3
 一扫 yi'sao 3
 一文字 yi'wen'zi 3
 一日海蛇 yi'ri'hai'she 3
@@ -137,6 +138,7 @@
 万水千针 mo'shui'qian'zhen 3
 万水千针 wan'shui'qian'zhen 3
 万物 wan'wu 3
+万物流变 wan'wu'liu'bian 3
 万物流转 wan'wu'liu'zhuan 3
 万物终结 wan'wu'zhong'jie 3
 万相森国 mo'xiang'sen'guo 3
@@ -145,6 +147,8 @@
 万相森国墨染巨钳虾 wan'xiang'sen'guo'mo'ran'ju'qian'xia 3
 万相森国水蜥 mo'xiang'sen'guo'shui'xi 3
 万相森国水蜥 wan'xiang'sen'guo'shui'xi 3
+万神 mo'shen 3
+万神 wan'shen 3
 万神大星墓 mo'shen'da'xing'mu 3
 万神大星墓 wan'shen'da'xing'mu 3
 万能拟饵 wan'neng'ni'er 3
@@ -170,12 +174,22 @@
 万魔殿之柱 wan'mo'dian'zhi'zhu 3
 万魔殿之环 mo'mo'dian'zhi'huan 3
 万魔殿之环 wan'mo'dian'zhi'huan 3
+万魔殿之网 mo'mo'dian'zhi'wang 3
+万魔殿之网 wan'mo'dian'zhi'wang 3
+万魔殿双人牢狱 mo'mo'dian'shuang'ren'lao'yu 3
+万魔殿双人牢狱 wan'mo'dian'shuang'ren'lao'yu 3
+万魔殿四人牢狱 mo'mo'dian'si'ren'lao'yu 3
+万魔殿四人牢狱 wan'mo'dian'si'ren'lao'yu 3
 万魔殿射线 mo'mo'dian'she'xian 3
 万魔殿射线 wan'mo'dian'she'xian 3
 万魔殿正门 mo'mo'dian'zheng'men 3
 万魔殿正门 wan'mo'dian'zheng'men 3
+万魔殿炮塔 mo'mo'dian'pao'ta 3
+万魔殿炮塔 wan'mo'dian'pao'ta 3
 万魔殿熔毁 mo'mo'dian'rong'hui 3
 万魔殿熔毁 wan'mo'dian'rong'hui 3
+万魔殿牢狱 mo'mo'dian'lao'yu 3
+万魔殿牢狱 wan'mo'dian'lao'yu 3
 万魔殿神圣 mo'mo'dian'shen'sheng 3
 万魔殿神圣 wan'mo'dian'shen'sheng 3
 万魔殿边境下层 mo'mo'dian'bian'jing'xia'ceng 3
@@ -410,6 +424,8 @@
 不均衡的一击 bu'jun'heng'de'yi'ji 3
 不安 bu'an 3
 不完整菌类 bu'wan'zheng'jun'lei 3
+不定性古龙鳞 bu'ding'xing'gu'long'lin 3
+不定性可可豆 bu'ding'xing'ke'ke'dou 3
 不定性无粒陨石 bu'ding'xing'mo'li'yun'shi 3
 不定性无粒陨石 bu'ding'xing'wu'li'yun'shi 3
 不定性海绵菇 bu'ding'xing'hai'mian'gu 3
@@ -802,6 +818,7 @@
 两翼红炎风 liang'yi'hong'yan'feng 3
 两翼防御 liang'yi'fang'yu 3
 两翼魔爪 liang'yi'mo'zhao 3
+两舷横扫 liang'xian'heng'sao 3
 严冬风暴 yan'dong'feng'bao 3
 严厉之柱 yan'li'zhi'zhu 3
 严寒怪 yan'han'guai 3
@@ -1030,6 +1047,7 @@
 之手 zhi'shou 3
 之拳 zhi'quan 3
 之斧 zhi'fu 3
+之杖 zhi'zhang 3
 之枪 zhi'qiang 3
 之歌 zhi'ge 3
 之武器箱 zhi'wu'qi'xiang 3
@@ -1242,6 +1260,11 @@
 九连导弹 jiu'lian'dao'dan 3
 九霄云上 jiu'xiao'yun'shang 3
 九霄云舍 jiu'xiao'yun'she 3
+习武工作裤 xi'wu'gong'zuo'ku 3
+习武无袖背心 xi'wu'mo'xiu'bei'xin 3
+习武无袖背心 xi'wu'wu'xiu'bei'xin 3
+习武礼鞋 xi'wu'li'xie 3
+习武背心 xi'wu'bei'xin 3
 乡村内墙 xiang'cun'nei'qiang 3
 乡村原木座椅 xiang'cun'yuan'mu'zuo'yi 3
 乡村原木桌 xiang'cun'yuan'mu'zhuo 3
@@ -1531,6 +1554,7 @@
 亚历山大金属断头剑 ya'li'shan'da'jin'shu'duan'tou'jian 3
 亚希纳 ya'xi'na 3
 亚希纳临时实验场 ya'xi'na'lin'shi'shi'yan'chang 3
+亚幻日 ya'huan'ri 3
 亚拉戈 ya'la'ge 3
 亚拉戈上级硬化药 ya'la'ge'shang'ji'ying'hua'yao 3
 亚拉戈上级魔触媒 ya'la'ge'shang'ji'mo'chu'mei 3
@@ -1986,6 +2010,7 @@
 仙人刺 xian'ren'ci 3
 仙人刺先生 xian'ren'ci'xian'sheng 3
 仙人刺先生奖杯 xian'ren'ci'xian'sheng'jiang'bei 3
+仙人刺先生时钟 xian'ren'ci'xian'sheng'shi'zhong 3
 仙人刺先生玩偶 xian'ren'ci'xian'sheng'wan'ou 3
 仙人刺先生的亮书 xian'ren'ci'xian'sheng'de'liang'shu 3
 仙人刺先生的亮典 xian'ren'ci'xian'sheng'de'liang'dian 3
@@ -2052,6 +2077,7 @@
 仙子猪玩偶 xian'zi'zhu'wan'ou 3
 仙子猪耳坠 xian'zi'zhu'er'zhui 3
 仙子耳 xian'zi'er 3
+仙子花饰壁灯 xian'zi'hua'shi'bi'deng 3
 仙子苹果派 xian'zi'ping'guo'pai 3
 仙子苹果篮子 xian'zi'ping'guo'lan'zi 3
 仙子莓 xian'zi'mei 3
@@ -2722,6 +2748,7 @@
 仿制 fang'zhi 3
 仿制关闭的门 fang'zhi'guan'bi'de'men 3
 仿制圆形彩绘玻璃窗 fang'zhi'yuan'xing'cai'hui'bo'li'chuang 3
+仿制地窖门 fang'zhi'di'jiao'men 3
 仿制小彩绘玻璃窗 fang'zhi'xiao'cai'hui'bo'li'chuang 3
 仿制小窗 fang'zhi'xiao'chuang 3
 仿制帘窗 fang'zhi'lian'chuang 3
@@ -2736,6 +2763,7 @@
 仿古清洗台 fang'gu'qing'xian'tai 3
 仿古置物架 fang'gu'zhi'wu'jia 3
 仿声鸟图腾 fang'sheng'niao'tu'teng 3
+仿晶簇室内灯 fang'jing'cu'shi'nei'deng 3
 仿麻鱼 fang'ma'yu 3
 企业号模型 qi'ye'hao'mo'xing 3
 企业级气囊 qi'ye'ji'qi'nang 3
@@ -3110,12 +3138,15 @@
 伐尼夏 fa'ni'xia 3
 伐木巨人 fa'mu'ju'ren 3
 伐煞斧 fa'sha'fu 3
+休假小员 xiu'jia'xiao'yuan 3
+休假小员 xiu'jia'xiao'yun 3
 休养胜地布雷福洛克斯野营地 xiu'yang'sheng'di'bu'lei'fu'luo'ke'si'ye'ying'de 3
 休养胜地布雷福洛克斯野营地 xiu'yang'sheng'di'bu'lei'fu'luo'ke'si'ye'ying'di 3
 休岛园 xiu'dao'yuan 3
 休巴尔德 xiu'ba'er'de 3
 休息与反省 xiu'xi'yu'fan'xing 3
 休息室 xiu'xi'shi 3
+休息必需品的素材 xiu'xi'bi'xu'pin'de'su'cai 3
 休憩广场 xiu'qi'guang'chang 3
 休格尔 xiu'ge'er 3
 休著斯 xiu'zhu'si 3
@@ -3441,6 +3472,7 @@
 佐菊石 zuo'ju'dan 3
 佐菊石 zuo'ju'shi 3
 佐迪亚克 zuo'di'ya'ke 3
+佐迪亚克偶像 zuo'di'ya'ke'ou'xiang 3
 体力恢复量提高 ti'li'hui'fu'liang'ti'gao 3
 体力消耗降低 ti'li'xiao'hao'jiang'di 3
 体力饲料 ti'li'si'liao 3
@@ -3721,6 +3753,8 @@
 偏执不化的伊尔伯德 pian'zhi'bu'hua'de'yi'er'bo'de 3
 偏折屏障 pian'she'ping'zhang 3
 偏折屏障 pian'zhe'ping'zhang 3
+偏振射线 pian'zhen'she'xian 3
+偏振炽光 pian'zhen'chi'guang 3
 偏爱的诅咒 pian'ai'de'zu'zhou 3
 停刊 ting'kan 3
 停止 ting'zhi 3
@@ -3804,6 +3838,7 @@
 元素之美名 yuan'su'zhi'mei'ming 3
 元素之虑 yuan'su'zhi'lv 3
 元素开关 yuan'su'kai'guan 3
+元素理念 yuan'su'li'nian 3
 元素破 yuan'su'po 3
 元老院站 yuan'lao'yuan'zhan 3
 元首办公室 yuan'shou'ban'gong'shi 3
@@ -3991,6 +4026,8 @@
 光阴神指虎 guang'yin'shen'zhi'hu 3
 光阴神的礼赞凯歌 guang'yin'shen'de'li'zan'kai'ge 3
 光阴神辅剑 guang'yin'shen'fu'jian 3
+光阴神阿尔基克 guang'yin'shen'a'er'ji'ke 3
+光阴神阿尔基克 guang'yin'shen'e'er'ji'ke 3
 光露 guang'lou 3
 光露 guang'lu 3
 光鳞兄弟 guang'lin'xiong'di 3
@@ -4205,6 +4242,8 @@
 六分反击 liu'fen'fan'ji 3
 六合星导脚 liu'he'xing'dao'jiao 3
 六合结界 liu'he'jie'jie 3
+六天座之层 liu'tian'zuo'zhi'ceng 3
+六天座之门 liu'tian'zuo'zhi'men 3
 六子浅滩 liu'zi'qian'tan 3
 六属性关系图 liu'shu'xing'guan'xi'tu 3
 六度烈阳 liu'du'lie'yang 3
@@ -4628,6 +4667,7 @@
 冥魂 ming'hun 3
 冥魂泉 ming'hun'quan 3
 冥魂石洞 ming'hun'shi'dong 3
+冥魂石洞标旗 ming'hun'shi'dong'biao'qi 3
 冬季休眠树 dong'ji'xiu'mian'shu 3
 冬意毛衣 dong'yi'mao'yi 3
 冬猫 dong'mao 3
@@ -4893,6 +4933,7 @@
 冲锋项环 chong'feng'xiang'huan 3
 冲锋龙鸟 chong'feng'long'niao 3
 冲顶 chong'ding 3
+冲风 chong'feng 3
 决意 jue'yi 3
 决意之路 jue'yi'zhi'lu 3
 决战 jue'zhan 3
@@ -5076,6 +5117,12 @@
 凶星剑 xiong'xing'jian 3
 凶暴的大狼獾 xiong'bao'de'da'lang'huan 3
 凶暴的龙之子 xiong'bao'de'long'zhi'zi 3
+凶残暴君 xiong'can'bao'jun 3
+凶残暴君头盔 xiong'can'bao'jun'tou'kui 3
+凶残暴君手铠 xiong'can'bao'jun'shou'kai 3
+凶残暴君胸甲 xiong'can'bao'jun'xiong'jia 3
+凶残暴君锁甲靴 xiong'can'bao'jun'suo'jia'xue 3
+凶残暴君骑兵裤 xiong'can'bao'jun'qi'bing'ku 3
 凶残正打 xiong'can'zheng'da 3
 凶残石像鬼 xiong'can'shi'xiang'gui 3
 凶残石蜥蜴 xiong'can'dan'xi'yi 3
@@ -5205,6 +5252,7 @@
 分析系统 fen'xi'xi'tong 3
 分析装置 fen'xi'zhuang'zhi 3
 分歧判决 fen'qi'pan'jue 3
+分歧否决 fen'qi'fou'jue 3
 分烟法 fen'yan'fa 3
 分福 fen'fu 3
 分福玩偶 fen'fu'wan'ou 3
@@ -5228,6 +5276,7 @@
 分身之术 fen'shen'zhi'shu 3
 分身之术 fen'shen'zhi'zhu 3
 分身冲刺 fen'shen'chong'ci 3
+分配因子 fen'pei'yin'zi 3
 分铜锁 fen'tong'suo 3
 分隔的世界 fen'ge'de'shi'jie 3
 切刀石像魔 qie'dao'shi'xiang'mo 3
@@ -5285,6 +5334,8 @@
 刚魂 gang'hun 3
 创世 chuang'shi 3
 创世真炎 chuang'shi'zhen'yan 3
+创世神涡 chuang'shi'shen'guo 3
+创世神涡 chuang'shi'shen'wo 3
 创伤之右翼 chuang'shang'zhi'you'yi 3
 创作者之家 chuang'zuo'zhe'zhi'jia 3
 创兽炎舞 chuang'shou'yan'wu 3
@@ -5426,6 +5477,7 @@
 制作人房间 zhi'zuo'ren'fang'jian 3
 制作发簪的素材 zhi'zuo'fa'zan'de'su'cai 3
 制作指环的素材 zhi'zuo'zhi'huan'de'su'cai 3
+制作煎蛋 zhi'zuo'jian'dan 3
 制作红票的票据 zhi'zuo'hong'piao'de'piao'ju 3
 制作蓝票的票据 zhi'zuo'lan'piao'de'piao'ju 3
 制定战术 zhi'ding'zhan'shu 3
@@ -5564,6 +5616,7 @@
 前方扫荡 qian'fang'sao'dang 3
 前方斩击 qian'fang'zhan'ji 3
 前方炎剑闪 qian'fang'yan'jian'shan 3
+前方炎连击 qian'fang'yan'lian'ji 3
 前方猛襲乱流 qian'fang'meng'xi'luan'liu 3
 前方神经毒气喷射 qian'fang'shen'jing'du'qi'pen'she 3
 前方花蜜喷吐 qian'fang'hua'mi'pen'tu 3
@@ -5726,6 +5779,7 @@
 加尔梵斯哨塔 jia'er'fan'si'shao'ta 3
 加工 jia'gong 3
 加工工具 jia'gong'gong'ju 3
+加强信音 jia'qiang'xin'yin 3
 加强版加百列 jia'qiang'ban'jia'bai'lie 3
 加恩 jia'en 3
 加托尔之眼 jia'tuo'er'zhi'yan 3
@@ -6091,6 +6145,7 @@
 十字狱炎波 shi'zi'yu'yan'bo 3
 十字章 shi'zi'zhang 3
 十字镐大街 shi'zi'gao'da'jie 3
+十字魔爆 shi'zi'mo'bao 3
 十指塔塔比的单牢 shi'zhi'ta'ta'bi'de'chan'lao 3
 十指塔塔比的单牢 shi'zhi'ta'ta'bi'de'dan'lao 3
 十指塔塔比的单牢 shi'zhi'ta'ta'bi'de'shan'lao 3
@@ -6146,6 +6201,8 @@
 千鳍 qian'qi 3
 卅二吨重击 sa'er'dun'chong'ji 3
 卅二吨重击 sa'er'dun'zhong'ji 3
+升华古龙鳞 sheng'hua'gu'long'lin 3
+升华可可豆 sheng'hua'ke'ke'dou 3
 升华无粒陨石 sheng'hua'mo'li'yun'shi 3
 升华无粒陨石 sheng'hua'wu'li'yun'shi 3
 升华海绵菇 sheng'hua'hai'mian'gu 3
@@ -6218,6 +6275,7 @@
 半熟甲 ban'shou'jia 3
 半熟甲 ban'shu'jia 3
 半玛哈物质 ban'ma'ha'wu'zhi 3
+半神 ban'shen 3
 半神冥暗 ban'shen'ming'an 3
 半神双击 ban'shen'shuang'ji 3
 半神暴雷 ban'shen'bao'lei 3
@@ -6818,6 +6876,7 @@
 厄尔庇斯之鸟胸肉 e'er'bi'si'zhi'niao'xiong'rou 3
 厄尔庇斯之鸟蛋 e'er'bi'si'zhi'niao'dan 3
 厄尔庇斯佳肴 e'er'bi'si'jia'yao 3
+厄尔庇斯庭院喷泉 e'er'bi'si'ting'yuan'pen'quan 3
 厄尔庇斯弥诺陶洛斯 e'er'bi'si'mi'nuo'tao'luo'si 3
 厄尔庇斯石制立柱 e'er'bi'si'dan'zhi'li'zhu 3
 厄尔庇斯石制立柱 e'er'bi'si'shi'zhi'li'zhu 3
@@ -6941,16 +7000,24 @@
 原型魔导机车大魔认证密钥 yuan'xing'mo'dao'ji'che'da'mo'ren'zheng'mi'yao 3
 原型魔导机车大魔认证密钥 yuan'xing'mo'dao'ji'che'da'mo'ren'zheng'mi'yue 3
 原始嚎叫 yuan'shi'hao'jiao 3
+原始地狱犬 yuan'shi'di'yu'quan 3
+原始小丑 yuan'shi'xiao'chou 3
+原始恶魔 yuan'shi'e'mo 3
+原始爆弹之母 yuan'shi'bao'dan'zhi'mu 3
+原始爆弹之母 yuan'shi'bao'tan'zhi'mu 3
 原始的堕天使 yuan'shi'de'duo'tian'shi 3
 原始的审判 yuan'shi'de'shen'pan 3
+原始石像鬼 yuan'shi'shi'xiang'gui 3
 原始穿孔 yuan'shi'chuan'kong 3
 原始骏雕 yuan'shi'jun'diao 3
+原始黑卫 yuan'shi'hei'wei 3
 原子射线 yuan'zi'she'xian 3
 原子晶球 yuan'zi'jing'qiu 3
 原子烈火 yuan'zi'lie'huo 3
 原开拓团的冒险者 yuan'kai'tuo'tuan'de'mao'xian'zhe 3
 原恒星 yuan'heng'xing 3
 原木 yuan'mu 3
+原木夹层楼板 yuan'mu'jia'ceng'lou'ban 3
 原木立柱 yuan'mu'li'zhu 3
 原点核爆 yuan'dian'he'bao 3
 原点核爆 yuan'dian'hu'bao 3
@@ -6978,6 +7045,7 @@
 厨具架 chu'ju'jia 3
 厨刀 chu'dao 3
 厨匠烹饪台 chu'jiang'peng'ren'tai 3
+叁之体势 san'zhi'ti'shi 3
 叁式水遁之术 san'shi'shui'dun'zhi'shu 3
 叁式水遁之术 san'shi'shui'dun'zhi'zhu 3
 叁式火遁之术 san'shi'huo'dun'zhi'shu 3
@@ -7108,6 +7176,8 @@
 双足飞龙棋子 shuang'zu'fei'long'qi'zi 3
 双足飞龙的翼膜 shuang'zu'fei'long'de'yi'mo 3
 双软垫 shuang'ruan'dian 3
+双连魔弹 shuang'lian'mo'dan 3
+双连魔弹 shuang'lian'mo'tan 3
 双重 shuang'chong 3
 双重俯冲 shuang'chong'fu'chong 3
 双重冲击 shuang'chong'chong'ji 3
@@ -7133,6 +7203,8 @@
 双重飞钻冲击 shuang'chong'fei'zuan'chong'ji 3
 双钉 shuang'ding 3
 双面宫 shuang'mian'gong 3
+双魔連弾 shuang'mo'lian'dan 3
+双魔連弾 shuang'mo'lan'dan 3
 双魔邪王斩 shuang'mo'xie'wang'zhan 3
 双鱼之魂晶 shuang'yu'zhi'hun'jing 3
 双龙脚 shuang'long'jiao 3
@@ -7349,6 +7421,7 @@
 古代铜币 gu'dai'tong'bi 3
 古代魔法研究者 gu'dai'mo'fa'yan'jiu'zhe 3
 古伤 gu'shang 3
+古典书桌 gu'dian'shu'zhuo 3
 古典兜帽 gu'dian'dou'mao 3
 古典内墙 gu'dian'nei'qiang 3
 古典厨帽 gu'dian'chu'mao 3
@@ -7594,6 +7667,7 @@
 召唤师 zhao'huan'shi 3
 召唤师之证 zhao'huan'shi'zhi'zheng 3
 召唤死形 zhao'huan'si'xing 3
+召唤海蛇 zhao'huan'hai'she 3
 召唤金光 zhao'huan'jin'guang 3
 召唤阴兵 zhao'huan'yin'bing 3
 召唤魔形 zhao'huan'mo'xing 3
@@ -7661,6 +7735,7 @@
 可疑的迪露希奥 ke'yi'de'di'lu'xi'ao 3
 可疑的黑影之民 ke'yi'de'hei'ying'zhi'min 3
 可疑的黑衣男性 ke'yi'de'hei'yi'nan'xing 3
+可移动式庭院斜梯 ke'yi'dong'shi'ting'yuan'xie'ti 3
 可露儿 ke'lou'er 3
 可露儿 ke'lu'er 3
 台地红 tai'di'hong 3
@@ -7700,6 +7775,7 @@
 右印 you'yin 3
 右后主脚 you'hou'zhu'jiao 3
 右妖蛇 you'yao'she 3
+右岸泛滥 you'an'fan'lan 3
 右心 you'xin 3
 右扫 you'sao 3
 右擦擦 you'ca'ca 3
@@ -7729,6 +7805,7 @@
 右臂限制解除 you'bi'xian'zhi'jie'chu 3
 右舷扫射 you'xian'sao'she 3
 右舷构造群 you'xian'gou'zao'qun 3
+右舷横扫 you'xian'heng'sao 3
 右舷船体元件 you'xian'chuan'ti'yuan'jian 3
 右舷齐射 you'xian'qi'she 3
 右葬 you'zang 3
@@ -7810,6 +7887,7 @@
 吃惊 chi'jing 3
 吃披萨 chi'pi'sa 3
 吃水煮蛋 chi'shui'zhu'dan 3
+吃炸鸡 chi'zha'ji 3
 吃苹果 chi'ping'guo 3
 吃面包 chi'mian'bao 3
 吃饭团 chi'fan'tuan 3
@@ -7818,6 +7896,8 @@
 合为一体 he'wei'yi'ti 3
 合体 he'ti 3
 合力咏唱 he'li'yong'chang 3
+合成体的哀歌 he'cheng'ti'de'ai'ge 3
+合成体连击 he'cheng'ti'lian'ji 3
 合成剑 he'cheng'jian 3
 合成生物的粗皮 he'cheng'sheng'wu'de'cu'pi 3
 合成盾 he'cheng'dun 3
@@ -7916,6 +7996,7 @@
 后方乱流 hou'fang'luan'liu 3
 后方回返太刀 hou'fang'hui'fan'tai'dao 3
 后方扫射 hou'fang'sao'she 3
+后方炎连击 hou'fang'yan'lian'ji 3
 后方迎击火箭 hou'fang'ying'ji'huo'jian 3
 后方连转脚 hou'fang'lian'zhuan'jiao 3
 后桅塔 hou'wei'ta 3
@@ -8026,6 +8107,8 @@
 吸血八目鳗 xi'xue'ba'mu'man 3
 吸血匕首 xi'xie'bi'shou 3
 吸血匕首 xi'xue'bi'shou 3
+吸血小姐 xi'xie'xiao'jie 3
+吸血小姐 xi'xue'xiao'jie 3
 吸血枝 xi'xie'zhi 3
 吸血枝 xi'xue'zhi 3
 吸血深渊 xi'xie'shen'yuan 3
@@ -8381,6 +8464,7 @@
 哈罗妮 ha'luo'ni 3
 哈罗妮丁菊 ha'luo'ni'ding'ju 3
 哈罗妮丁菊种子 ha'luo'ni'ding'ju'zhong'zi 3
+哈罗妮之壮志 ha'luo'ni'zhi'zhuang'zhi 3
 哈耳庇厄鸟妖 ha'er'bi'e'niao'yao 3
 哈茨古 ha'ci'gu 3
 哈蒙 ha'meng 3
@@ -8650,6 +8734,7 @@
 商用工程学指南 shang'yong'gong'cheng'xue'zhi'nan 3
 商用生存学指南 shang'yong'sheng'cun'xue'zhi'nan 3
 商贸神戒指 shang'mao'shen'jie'zhi 3
+商贸神纳尔札尔 shang'mao'shen'na'er'zha'er 3
 商队的护卫 shang'dui'de'hu'wei 3
 商魂不灭的兔子 shang'hun'bu'mie'de'tu'zi 3
 啊嚏 a'ti 3
@@ -8941,8 +9026,11 @@
 回风 hui'feng 3
 因克 yin'ke 3
 因基 yin'ji 3
+因子崩坏 yin'zi'beng'huai 3
+因子还原 yin'zi'huan'yuan 3
 因果 yin'guo 3
 因格希尔希斯 yin'ge'xi'er'xi'si 3
+因罪施罚 yin'zui'shi'fa 3
 团契 tuan'qi 3
 团扇贝 tuan'shan'bei 3
 园艺 yuan'yi 3
@@ -9007,6 +9095,8 @@
 圆头锤 yuan'tou'chui 3
 圆尾扫 yuan'wei'sao 3
 圆尾扫 yuan'yi'sao 3
+圆弧强击 yuan'hu'qiang'ji 3
+圆弧斩 yuan'hu'zhan 3
 圆弧旋爪 yuan'hu'xuan'zhao 3
 圆弧旋爪 yuan'hu'xuan'zhua 3
 圆形冲击波 yuan'xing'chong'ji'bo 3
@@ -9059,7 +9149,9 @@
 圆顶区 yuan'ding'qu 3
 圆顶帽 yuan'ding'mao 3
 土之印记 tu'zhi'yin'ji 3
+土之大妖异的宝珠 tu'zhi'da'yao'yi'de'bao'zhu 3
 土之晶簇 tu'zhi'jing'cu 3
+土之概念 tu'zhi'gai'nian 3
 土之水晶 tu'zhi'shui'jing 3
 土之浊 tu'zhi'zhuo 3
 土之画作 tu'zhi'hua'zuo 3
@@ -9113,6 +9205,7 @@
 土黄 tu'huang 3
 土黄石英 tu'huang'shi'ying 3
 圣三一 sheng'san'yi 3
+圣书体 sheng'shu'ti 3
 圣云水瓶 sheng'yun'shui'ping 3
 圣人帽 sheng'ren'mao 3
 圣人旅道 sheng'ren'lv'dao 3
@@ -9151,6 +9244,7 @@
 圣化断奏 sheng'hua'duan'zou 3
 圣化灵圣 sheng'hua'ling'sheng 3
 圣化熔毀 sheng'hua'rong'hui 3
+圣十结构 sheng'shi'jie'gou 3
 圣哲 sheng'zhe 3
 圣地大衣 sheng'di'da'yi 3
 圣地头巾 sheng'di'tou'jin 3
@@ -9461,6 +9555,7 @@
 地府安宁 di'fu'an'ning 3
 地形破坏攻击 di'xing'po'huai'gong'ji 3
 地心引力 di'xin'yin'li 3
+地心说 di'xin'shuo 3
 地懒的粗皮 de'lan'de'cu'pi 3
 地懒的粗皮 di'lan'de'cu'pi 3
 地懒革 de'lan'ge 3
@@ -9788,6 +9883,7 @@
 坠星 zhui'xing 3
 坠星冲 zhui'xing'chong 3
 坠机 zhui'ji 3
+坠海渊 zhui'hai'yuan 3
 坠落地点 zhui'luo'di'dian 3
 坠落报警虫 zhui'luo'bao'jing'chong 3
 坠落机甲 zhui'luo'ji'jia 3
@@ -9803,6 +9899,7 @@
 坦塔罗斯马裤 tan'ta'luo'si'ma'ku 3
 坯料制作 pi'liao'zhi'zuo 3
 坯料加工 pi'liao'jia'gong 3
+垂头丧气 chui'tou'sang'qi 3
 垂暮蝲蛄 chui'mu'la'gu 3
 垂柳树人 chui'liu'shu'ren 3
 垂涎长尾神猴 chui'xian'chang'wei'shen'hou 3
@@ -9959,6 +10056,7 @@
 堕天基路伯 duo'tian'ji'lu'bai 3
 堕天基路伯 duo'tian'ji'lu'bo 3
 堕天龙炎冲 duo'tian'long'yan'chong 3
+堕暗 duo'an 3
 堕狱 duo'yu 3
 堕狱绝技 duo'yu'jue'ji 3
 堕罪 duo'zui 3
@@ -10004,6 +10102,8 @@
 塔兰的熟练采矿工票据 ta'lan'de'shou'lian'cai'kuang'gong'piao'ju 3
 塔兰的熟练采矿工票据 ta'lan'de'shu'lian'cai'kuang'gong'piao'ju 3
 塔兰的采矿工票据 ta'lan'de'cai'kuang'gong'piao'ju 3
+塔利亚大海蛇 ta'li'ya'da'hai'she 3
+塔利亚特里同 ta'li'ya'te'li'tong 3
 塔嘉 ta'jia 3
 塔图芙 ta'tu'fu 3
 塔基 ta'ji 3
@@ -10173,6 +10273,7 @@
 壁挂格子置物架 bi'gua'ge'zi'zhi'wu'jia 3
 壁挂铁架火炬 bi'gua'tie'jia'huo'ju 3
 壁挂餐盘置物架 bi'gua'can'pan'zhi'wu'jia 3
+壁挂鱼饵展示框 bi'gua'yu'er'zhan'shi'kuang 3
 壁灯 bi'deng 3
 壕爪鱼人 hao'zhao'yu'ren 3
 壕爪鱼人 hao'zhua'yu'ren 3
@@ -10202,6 +10303,7 @@
 声援小黄 sheng'yuan'xiao'huang 3
 声暴 sheng'bao 3
 声波 sheng'bo 3
+壹之体势 yi'zhi'ti'shi 3
 处决 chu'jue 3
 处决风刃 chu'jue'feng'ren 3
 处刑 chu'xing 3
@@ -10662,6 +10764,7 @@
 大妖刀天羽羽斩 da'yao'dao'tian'yu'yu'zhan 3
 大妖异之影 da'yao'yi'zhi'ying 3
 大妖异图腾 da'yao'yi'tu'teng 3
+大妖异的水晶 da'yao'yi'de'shui'jing 3
 大妖异的黑铠碎片 da'yao'yi'de'hei'kai'sui'pian 3
 大学究 da'xue'jiu 3
 大宇宙 da'yu'zhou 3
@@ -10737,6 +10840,8 @@
 大泷太郎 da'long'tai'lang 3
 大泷太郎 da'shuang'tai'lang 3
 大洋妖红花 da'yang'yao'hong'hua 3
+大洋涡底 da'yang'guo'di 3
+大洋涡底 da'yang'wo'di 3
 大洛夫坦山羊 da'luo'fu'tan'shan'yang 3
 大洪水 da'hong'shui 3
 大流沙 da'liu'sha 3
@@ -11379,6 +11484,8 @@
 太阳神红眼鲈 tai'yang'shen'hong'yan'lu 3
 太阳神草原 tai'yang'shen'cao'yuan 3
 太阳神草莓 tai'yang'shen'cao'mei 3
+太阳神阿泽玛 tai'yang'shen'a'ze'ma 3
+太阳神阿泽玛 tai'yang'shen'e'ze'ma 3
 太阳神面纱 tai'yang'shen'mian'sha 3
 太阳贝 tai'yang'bei 3
 太阳阶地 tai'yang'jie'di 3
@@ -11466,6 +11573,7 @@
 夺命飞环 duo'ming'fei'huan 3
 夺影 duo'ying 3
 夺心小魔 duo'xin'xiao'mo 3
+夺心小魔庭院喷水器 duo'xin'xiao'mo'ting'yuan'pen'shui'qi 3
 夺心幻杖 duo'xin'huan'zhang 3
 夺心魔 duo'xin'mo 3
 夺木山魈 duo'mu'shan'xiao 3
@@ -11644,6 +11752,9 @@
 奔马武士盔 ben'ma'wu'shi'kui 3
 奔驰 ben'chi 3
 奖杯 jiang'bei 3
+奖杯中部 jiang'bei'zhong'bu 3
+奖杯右部 jiang'bei'you'bu 3
+奖杯左部 jiang'bei'zuo'bu 3
 套索花 tao'suo'hua 3
 套袖 tao'xiu 3
 奥丁 ao'ding 3
@@ -11654,8 +11765,11 @@
 奥丁神铠 ao'ding'shen'kai 3
 奥义斩浪 ao'yi'zhan'lang 3
 奥修昂 ao'xiu'ang 3
+奥修昂之离奇 ao'xiu'ang'zhi'li'qi 3
 奥修昂大桥 ao'xiu'ang'da'qiao 3
 奥修昂火炬 ao'xiu'ang'huo'ju 3
+奥修昂的分身 ao'xiu'ang'de'fen'shen 3
+奥修昂神殿 ao'xiu'ang'shen'dian 3
 奥儿昆德部偷猎者 ao'er'kun'de'bu'tou'lie'zhe 3
 奥儿昆德部牛倌 ao'er'kun'de'bu'niu'guan 3
 奥儿昆德部犏牛 ao'er'kun'de'bu'pian'niu 3
@@ -12124,6 +12238,7 @@
 妨碍陷阱 fang'ai'xian'jing 3
 妮洛帕拉畜产局 ni'luo'pa'la'xu'chan'ju 3
 妮美雅 ni'mei'ya 3
+妮美雅之精巧 ni'mei'ya'zhi'jing'qiao 3
 妮美雅百合 ni'mei'ya'bai'he 3
 妮美雅百合种子 ni'mei'ya'bai'he'zhong'zi 3
 妮美雅百合香囊 ni'mei'ya'bai'he'xiang'nang 3
@@ -12395,6 +12510,7 @@
 宇宙和音市场 yu'zhou'he'yin'shi'chang 3
 宇宙和音市场 yu'zhou'hu'yin'shi'chang 3
 宇宙和音市场 yu'zhou'huo'yin'shi'chang 3
+宇宙大挤压 yu'zhou'da'ji'ya 3
 宇宙天箭 yu'zhou'tian'jian 3
 宇宙宫 yu'zhou'gong 3
 宇宙宫回声 yu'zhou'gong'hui'sheng 3
@@ -12403,6 +12519,7 @@
 宇宙宫独脚金 yu'zhou'gong'du'jiao'jin 3
 宇宙宫隔断 yu'zhou'gong'ge'duan 3
 宇宙宫食人花 yu'zhou'gong'shi'ren'hua 3
+宇宙火劫 yu'zhou'huo'jie 3
 宇宙记忆 yu'zhou'ji'yi 3
 宇宙象 yu'zhou'xiang 3
 宇宙雾霾 yu'zhou'wu'mai 3
@@ -12570,6 +12687,9 @@
 宗匠大工房 zong'jiang'da'gong'fang 3
 宗母的泪珠 zong'mu'de'lei'zhu 3
 宗母的荣耀 zong'mu'de'rong'yao 3
+宗长耳环 zong'chang'er'huan 3
+宗长耳环 zong'zhang'er'huan 3
+宗长项链 zong'chang'xiang'lian 3
 宙斯之怒 zhou'si'zhi'nu 3
 定制咏魔长袍 ding'zhi'yong'mo'chang'pao 3
 定制束腰衣 ding'zhi'shu'yao'yi 3
@@ -12941,6 +13061,9 @@
 对菌类兵器 dui'jun'lei'bing'qi 3
 对装甲炸弹 dui'zhuang'jia'zha'dan 3
 对话 dui'hua 3
+对跖 dui'zhi 3
+对跖强刺 dui'zhi'jiang'ci 3
+对跖强刺 dui'zhi'qiang'ci 3
 对魔导兵器攻击 dui'mo'dao'bing'qi'gong'ji 3
 对龙城塞作战桌 dui'long'cheng'sai'zuo'zhan'zhuo 3
 对龙城塞作战桌 dui'long'cheng'se'zuo'zhan'zhuo 3
@@ -13197,6 +13320,7 @@
 小桶炮群 xiao'tong'bao'qun 3
 小桶炮群 xiao'tong'pao'qun 3
 小梦貘 xiao'meng'mo 3
+小步舞箭 xiao'bu'wu'jian 3
 小母安祖 xiao'mu'an'zu 3
 小水滴精 xiao'shui'di'jing 3
 小河流水 xiao'he'liu'shui 3
@@ -13221,6 +13345,7 @@
 小狛 xiao'bo 3
 小狼 xiao'lang 3
 小猪门松 xiao'zhu'men'song 3
+小猫鲱鱼 xiao'mao'fei'yu 3
 小王冠 xiao'wang'guan 3
 小珀琉喀斯 xiao'po'liu'ka'si 3
 小疣猪 xiao'you'zhu 3
@@ -13271,6 +13396,7 @@
 小青虫 xiao'qing'chong 3
 小面像 xiao'mian'xiang 3
 小顽童 xiao'wan'tong 3
+小骨鱼 xiao'gu'yu 3
 小魂灵 xiao'hun'ling 3
 小魔精 xiao'mo'jing 3
 小魔精的翅膀 xiao'mo'jing'de'chi'bang 3
@@ -13325,6 +13451,7 @@
 尖晶石项环 jian'jing'shi'xiang'huan 3
 尖枪乌贼 jian'qiang'wu'zei 3
 尖枪瀑布 jian'qiang'pu'bu 3
+尖枪雨 jian'qiang'yu 3
 尖牙冲锋 jian'ya'chong'feng 3
 尖牙牢笼 jian'ya'lao'long 3
 尖牙穿刺 jian'ya'chuan'ci 3
@@ -13505,7 +13632,9 @@
 属性变动 shu'xing'bian'dong 3
 属性变异 shu'xing'bian'yi 3
 属性吸收 shu'xing'xi'shou 3
+属性失控 shu'xing'shi'kong 3
 属性放出 shu'xing'fang'chu 3
+属性波动 shu'xing'bo'dong 3
 屠刀 tu'dao 3
 屠戮 tu'lu 3
 屠戮结 tu'lu'jie 3
@@ -13766,6 +13895,7 @@
 工艺神创 gong'yi'shen'chuang 3
 工艺神戒指 gong'yi'shen'jie'zhi 3
 工艺神护 gong'yi'shen'hu 3
+工艺神比尔格 gong'yi'shen'bi'er'ge 3
 工艺神造 gong'yi'shen'zao 3
 工艺锤 gong'yi'chui 3
 工艺项环 gong'yi'xiang'huan 3
@@ -13799,6 +13929,7 @@
 左印 zuo'yin 3
 左右双斩 zuo'you'shuang'zhan 3
 左后主脚 zuo'hou'zhu'jiao 3
+左岸泛滥 zuo'an'fan'lan 3
 左心 zuo'xin 3
 左手剑 zuo'shou'jian 3
 左扫 zuo'sao 3
@@ -13839,6 +13970,7 @@
 左舷换气区 zuo'xian'huan'qi'ou 3
 左舷换气区 zuo'xian'huan'qi'qu 3
 左舷构造群 zuo'xian'gou'zao'qun 3
+左舷横扫 zuo'xian'heng'sao 3
 左舷船体元件 zuo'xian'chuan'ti'yuan'jian 3
 左舷齐射 zuo'xian'qi'she 3
 左葬 zuo'zang 3
@@ -13987,6 +14119,7 @@
 巨型税官 ju'xing'shui'guan 3
 巨型钝口螈角笛 ju'xing'dun'kou'yuan'jiao'di 3
 巨型钝口螈角笛 ju'xing'dun'kou'yuan'jue'di 3
+巨型钟表窗 ju'xing'zhong'biao'chuang 3
 巨型陆蟹 ju'xing'liu'xie 3
 巨型陆蟹 ju'xing'lu'xie 3
 巨大冲锋 ju'da'chong'feng 3
@@ -14011,6 +14144,8 @@
 巨岩砾 ju'yan'li 3
 巨岩骰 ju'yan'tou 3
 巨斧 ju'fu 3
+巨旋涡 ju'xuan'guo 3
+巨旋涡 ju'xuan'wo 3
 巨月蚤 ju'yue'zao 3
 巨木龙卷 ju'mu'long'juan 3
 巨枪斧 ju'qiang'fu 3
@@ -14035,6 +14170,7 @@
 巨石冲 ju'shi'chong 3
 巨石霹雳 ju'dan'pi'li 3
 巨石霹雳 ju'shi'pi'li 3
+巨矿爬虫 ju'kuang'pa'chong 3
 巨翼巨虻 ju'yi'ju'meng 3
 巨胆三尖枪 ju'dan'san'jian'qiang 3
 巨胆刀锁 ju'dan'dao'suo 3
@@ -14312,9 +14448,19 @@
 巴罗尔之铃 ba'luo'er'zhi'ling 3
 巴術技 ba'shu'ji 3
 巴钦大公爵 ba'qin'da'gong'jue 3
+巴隆城 ba'long'cheng 3
+巴隆城庭院 ba'long'cheng'ting'yuan 3
+巴隆城正门 ba'long'cheng'zheng'men 3
 巴隆头冠 ba'long'tou'guan 3
 巴隆头盔 ba'long'tou'kui 3
+巴隆王国 ba'long'wang'guo 3
+巴隆王国的士兵 ba'long'wang'guo'di'shi'bing 3
+巴隆王国的士兵长 ba'long'wang'guo'di'shi'bing'chang 3
+巴隆王国的士兵长 ba'long'wang'guo'di'shi'bing'zhang 3
+巴隆王国的市民 ba'long'wang'guo'de'shi'min 3
+巴隆盔甲 ba'long'kui'jia 3
 巴隆耳坠 ba'long'er'zhui 3
+巴隆镇 ba'long'zhen 3
 巴雅瓦科 ba'ya'wa'ke 3
 巴鲁姆克 ba'lu'mu'ke 3
 巴龙 ba'long 3
@@ -14450,6 +14596,8 @@
 希斯拉德 xi'si'la'de 3
 希望之地 xi'wang'zhi'de 3
 希望之地 xi'wang'zhi'di 3
+希望之地地毯 xi'wang'zhi'de'di'tan 3
+希望之地地毯 xi'wang'zhi'di'di'tan 3
 希望之炮台 xi'wang'zhi'pao'tai 3
 希望之都 xi'wang'zhi'dou 3
 希望之都 xi'wang'zhi'du 3
@@ -14489,6 +14637,9 @@
 帕拉塔安息地 pa'la'ta'an'xi'di 3
 帕拉塞尔苏斯蒸馏器 pa'la'sai'er'su'si'zheng'liu'qi 3
 帕拉塞尔苏斯蒸馏器 pa'la'se'er'su'si'zheng'liu'qi 3
+帕拉斯之手 pa'la'si'zhi'shou 3
+帕拉斯射线 pa'la'si'she'xian 3
+帕拉斯雅典娜 pa'la'si'ya'dian'na 3
 帕斯卡耶雷 pa'si'ka'ye'lei 3
 帕斯卡耶雷 pa'si'qia'ye'lei 3
 帕斯梅朗种畜研究所 pa'si'mei'lang'zhong'chu'yan'jiu'suo 3
@@ -14913,6 +15064,8 @@
 幽寂的圆环 you'ji'de'yuan'huan 3
 幽幻夜雾 you'huan'ye'wu 3
 幽微 you'wei 3
+幽愿 you'yuan 3
+幽愿巴哈姆特魔笛 you'yuan'ba'ha'mu'te'mo'di 3
 幽暗的约定之锤 you'an'de'yue'ding'zhi'chui 3
 幽暗虾虎 you'an'xia'hu 3
 幽暗鲨 you'an'sha 3
@@ -15059,6 +15212,8 @@
 库里尔萝卜种子 ku'li'er'luo'bo'zhong'zi 3
 库雷亚 ku'lei'ya 3
 库鲁皮拉 ku'lu'pi'la 3
+应对眼疲劳必需品的素材 ying'dui'yan'pi'lao'bi'xu'pin'de'su'cai 3
+应对眼疲劳的必需品 ying'dui'yan'pi'lao'de'bi'xu'pin 3
 应急战术 ying'ji'zhan'shu 3
 应许之地 ying'xu'zhi'de 3
 应许之地 ying'xu'zhi'di 3
@@ -15215,23 +15370,26 @@
 开拓工房玉米片 kai'tuo'gong'fang'yu'mi'pian 3
 开拓工房珊瑚剑 kai'tuo'gong'fang'shan'hu'jian 3
 开拓工房瓷罐 kai'tuo'gong'fang'ci'guan 3
-开拓工房甜新薯 kai'tuo'gong'fang'tian'xin'shu 3
 开拓工房腌小萝卜 kai'tuo'gong'fang'a'xiao'luo'bo 3
 开拓工房腌小萝卜 kai'tuo'gong'fang'yan'xiao'luo'bo 3
 开拓工房腌西葫芦 kai'tuo'gong'fang'a'xi'hu'lu 3
 开拓工房腌西葫芦 kai'tuo'gong'fang'yan'xi'hu'lu 3
 开拓工房调味汁 kai'tuo'gong'fang'tiao'wei'zhi 3
 开拓工房辣椒粉 kai'tuo'gong'fang'la'jiao'fen 3
+开拓工房金发饰 kai'tuo'gong'fang'jin'fa'shi 3
 开拓工房隔热玻璃 kai'tuo'gong'fang'ge're'bo'li 3
 开拓工房韭葱洋葱汤 kai'tuo'gong'fang'jiu'cong'yang'cong'tang 3
 开拓工房鱼派 kai'tuo'gong'fang'yu'pai 3
 开拓据点 kai'tuo'ju'dian 3
 开拓无人岛 kai'tuo'mo'ren'dao 3
 开拓无人岛 kai'tuo'wu'ren'dao 3
+开拓用凿子 kai'tuo'yong'zao'zi 3
 开拓用天然碱矿石 kai'tuo'yong'tian'ran'jian'kuang'shi 3
 开拓用石斧 kai'tuo'yong'shi'fu 3
 开拓用石锤 kai'tuo'yong'dan'chui 3
 开拓用石锤 kai'tuo'yong'shi'chui 3
+开拓用秘银鹤嘴锄 kai'tuo'yong'bi'yin'he'zui'chu 3
+开拓用秘银鹤嘴锄 kai'tuo'yong'mi'yin'he'zui'chu 3
 开拓用钢锤 kai'tuo'yong'gang'chui 3
 开拓用铜铲 kai'tuo'yong'tong'chan 3
 开拓用铜镰 kai'tuo'yong'tong'lian 3
@@ -15240,6 +15398,7 @@
 开拓用黑铁手斧 kai'tuo'yong'hei'tie'shou'fu 3
 开拓的山路 kai'tuo'de'shan'lu 3
 开拓者之手 kai'tuo'zhe'zhi'shou 3
+开拓者水晶像 kai'tuo'zhe'shui'jing'xiang 3
 开拓者的技巧 kai'tuo'zhe'de'ji'qiao 3
 开拓者的眼力 kai'tuo'zhe'de'yan'li 3
 开放仓库舱口 kai'fang'cang'ku'cang'kou 3
@@ -15399,6 +15558,7 @@
 弓鳍鱼 gong'qi'yu 3
 引发崩塌 yin'fa'beng'ta 3
 引导步廊 yin'dao'bu'lang 3
+引导水廊 yin'dao'shui'lang 3
 引擎外壳元件 yin'qing'wai'ke'yuan'jian 3
 引擎室 yin'qing'shi 3
 引擎润滑油 yin'qing'run'hua'you 3
@@ -15479,6 +15639,7 @@
 弥达斯维护兵 mi'da'si'wei'hu'bing 3
 弥达斯金属巨剑 mi'da'si'jin'shu'ju'jian 3
 弥达斯金属火枪 mi'da'si'jin'shu'huo'qiang 3
+弦月 xian'yue 3
 弦月剑 xian'yue'jian 3
 弦月剣 xian'yue'jian 3
 弦月拖鞋 xian'yue'tuo'xie 3
@@ -15790,6 +15951,7 @@
 影之角笛 ying'zhi'jue'di 3
 影之钟楼 ying'zhi'zhong'lou 3
 影仆从 ying'pu'cong 3
+影伤 ying'shang 3
 影元精 ying'yuan'jing 3
 影击 ying'ji 3
 影匿箭 ying'ni'jian 3
@@ -16066,6 +16228,9 @@
 心室 xin'shi 3
 心形卷饼 xin'xing'juan'bing 3
 心意 xin'yi 3
+心愿如风随行 xin'yuan'ru'feng'sui'hang 3
+心愿如风随行 xin'yuan'ru'feng'sui'heng 3
+心愿如风随行 xin'yuan'ru'feng'sui'xing 3
 心慈手软 xin'ci'shou'ruan 3
 心房 xin'fang 3
 心流区 xin'liu'ou 3
@@ -16229,6 +16394,7 @@
 怒水露滴 nu'shui'lu'di 3
 怒涛 nu'tao 3
 怒涛冲拳 nu'tao'chong'quan 3
+怒涛滚滚 nu'tao'gun'gun 3
 怒潮吐息 nu'chao'tu'xi 3
 怒潮咆哮 nu'chao'pao'xiao 3
 怒潮断头台 nu'chao'duan'tou'tai 3
@@ -17114,6 +17280,7 @@
 成神之花剑 cheng'shen'zhi'hua'jian 3
 成神之飞翼 cheng'shen'zhi'fei'yi 3
 成神之鸢盾 cheng'shen'zhi'yuan'dun 3
+我仍将一无所知 wo'reng'jiang'yi'wu'suo'zhi 3
 我们的明天已化为余烬 wo'men'de'ming'tian'yi'hua'wei'yu'jin 3
 我思故我在 wo'si'gu'wo'zai 3
 我流地裂斩 wo'liu'de'lie'zhan 3
@@ -17139,7 +17306,6 @@
 战争神之盾 zhan'zheng'shen'zhi'dun 3
 战争神之间 zhan'zheng'shen'zhi'jian 3
 战争神尖枪 zhan'zheng'shen'jian'qiang 3
-战争神戒指 zhan'zheng'shen'jie'zhi 3
 战争神战斧 zhan'zheng'shen'zhan'fu 3
 战争神断头剑 zhan'zheng'shen'duan'tou'jian 3
 战争神狗鱼 zhan'zheng'shen'gou'yu 3
@@ -17854,6 +18020,7 @@
 拉娜终结 la'nuo'zhong'jie 3
 拉尔嘉 la'er'jia 3
 拉尔戈 la'er'ge 3
+拉尔戈之威能 la'er'ge'zhi'wei'neng 3
 拉尔戈冲击 la'er'ge'chong'ji 3
 拉尔戈神使 la'er'ge'shen'shi 3
 拉尔戈神拳 la'er'ge'shen'quan 3
@@ -17910,6 +18077,7 @@
 拉札罕淬火油 la'zha'han'cui'huo'you 3
 拉札罕清漆 la'zha'han'qing'qi 3
 拉札罕的一类票据 la'zha'han'de'yi'lei'piao'ju 3
+拉札罕的三类票据 la'zha'han'de'san'lei'piao'ju 3
 拉札罕的二类票据 la'zha'han'de'er'lei'piao'ju 3
 拉札罕秋意衬衫 la'zha'han'qiu'yi'chen'shan 3
 拉札罕飞艇坪 la'zha'han'fei'ting'ping 3
@@ -17969,6 +18137,7 @@
 拓瓦的幻影 ta'wa'de'huan'ying 3
 拓瓦的幻影 tuo'wa'de'huan'ying 3
 拔刀突击 ba'dao'tu'ji 3
+拔拽绳钩 ba'zhuai'sheng'gou 3
 拔起 ba'qi 3
 拘束 ju'shu 3
 拘束仓 ju'shu'cang 3
@@ -18047,6 +18216,16 @@
 拷问之门 kao'wen'zhi'men 3
 拷问之间 kao'wen'zhi'jian 3
 拼尽全力 pin'jin'quan'li 3
+拾穗人外套 she'sui'ren'wai'tao 3
+拾穗人外套 shi'sui'ren'wai'tao 3
+拾穗人工作手套 she'sui'ren'gong'zuo'shou'tao 3
+拾穗人工作手套 shi'sui'ren'gong'zuo'shou'tao 3
+拾穗人长靴 she'sui'ren'chang'xue 3
+拾穗人长靴 she'sui'ren'zhang'xue 3
+拾穗人长靴 shi'sui'ren'chang'xue 3
+拾穗人长靴 shi'sui'ren'zhang'xue 3
+拾穗人马裤 she'sui'ren'ma'ku 3
+拾穗人马裤 shi'sui'ren'ma'ku 3
 拾荒者之女 shi'huang'zhe'zhi'nv 3
 拾荒鮟鱇 shi'huang'an'kang 3
 拿巴示断绝 na'ba'shi'duan'jue 3
@@ -18174,7 +18353,6 @@
 掘洞 jue'dong 3
 掘洞 jue'tong 3
 掠夺 lve'duo 3
-掠夺本能 lve'duo'ben'neng 3
 掠夺者的财宝 lve'duo'zhe'de'cai'bao 3
 掠影示现 lve'ying'shi'xian 3
 掠食 lve'shi 3
@@ -18381,6 +18559,7 @@
 摇篮曲 yao'lan'qu 3
 摇篮树 yao'lan'shu 3
 摇荡 yao'dang 3
+摇荡射击 yao'dang'she'ji 3
 摇蚊 yao'wen 3
 摇风云海 yao'feng'yun'hai 3
 摘巢弓 zhai'chao'gong 3
@@ -18431,6 +18610,8 @@
 摩耶灵龟 mo'ye'ling'gui 3
 摩耶灵龟 mo'ye'ling'jun 3
 摩耶灵龟 mo'ye'ling'qiu 3
+摩耶鳄 ma'ye'e 3
+摩耶鳄 mo'ye'e 3
 摩西娑苏罗 ma'xi'suo'su'luo 3
 摩西娑苏罗 mo'xi'suo'su'luo 3
 摩陀 ma'tuo 3
@@ -18439,6 +18620,7 @@
 撑伞起舞 cheng'san'qi'wu 3
 撑船巨人 cheng'chuan'ju'ren 3
 撒娇 sa'jiao 3
+撒拉奥斯 sa'la'ao'si 3
 撒拉奥斯的遗骸 sa'la'ao'si'de'yi'hai 3
 撒沟厉关 sa'gou'li'guan 3
 撒沟厉沙丘 sa'gou'li'sha'qiu 3
@@ -18469,6 +18651,7 @@
 撞木 zhuang'mu 3
 撞色木纹地板 zhuang'se'mu'wen'di'ban 3
 撞色木纹地板 zhuang'shai'mu'wen'di'ban 3
+撤步射击 che'bu'she'ji 3
 撤退 che'tui 3
 撤销召唤 che'xiao'zhao'huan 3
 撩人魔花薇薇安 liao'ren'mo'hua'wei'wei'an 3
@@ -18495,6 +18678,7 @@
 擦擦羽衣精 ca'ca'yu'yi'jing 3
 攀墙盲头蟹 pan'qiang'mang'tou'xie 3
 攀岩鱼 pan'yan'yu 3
+攀跃射击 pan'yue'she'ji 3
 攘夷派志士 rang'yi'pai'zhi'shi 3
 攘夷派武士 rang'yi'pai'wu'shi 3
 攘夷派的上忍 rang'yi'pai'de'shang'ren 3
@@ -18584,6 +18768,7 @@
 放散火流 fang'san'huo'liu 3
 放松身心的房间 fang'song'shen'xin'de'fang'jian 3
 放水 fang'shui 3
+放浪射击 fang'lang'she'ji 3
 放浪神 fang'lang'shen 3
 放浪神之弓 fang'lang'shen'zhi'gong 3
 放浪神之石 fang'lang'shen'zhi'dan 3
@@ -18593,8 +18778,10 @@
 放浪神左轮枪 fang'lang'shen'zuo'lun'qiang 3
 放浪神戒指 fang'lang'shen'jie'zhi 3
 放浪神护身符 fang'lang'shen'hu'shen'fu 3
+放浪神灵峰 fang'lang'shen'ling'feng 3
 放浪神的小步舞曲 fang'lang'shen'de'xiao'bu'wu'qu 3
 放浪神礼堂 fang'lang'shen'li'tang 3
+放浪群射 fang'lang'qun'she 3
 放热攻击 fang're'gong'ji 3
 放生 fang'sheng 3
 放生列表 fang'sheng'lie'biao 3
@@ -18931,6 +19118,8 @@
 斯剑虎革项环 si'jian'hu'ge'xiang'huan 3
 斯剑虎革魔导书 si'jian'hu'ge'mo'dao'shu 3
 斯剑虎革魔导典 si'jian'hu'ge'mo'dao'dian 3
+斯努盖姆 si'nu'gai'mu 3
+斯努盖姆 si'nu'ge'mu 3
 斯勒格尔打击剑 si'le'ge'er'da'ji'jian 3
 斯勒格尔打击剑 si'lei'ge'er'da'ji'jian 3
 斯匹塔克阵地 si'pi'ta'ke'zhen'di 3
@@ -18952,6 +19141,8 @@
 斯卡拉遗迹 si'qia'la'yi'ji 3
 斯卡米留尼 si'ka'mi'liu'ni 3
 斯卡米留尼 si'qia'mi'liu'ni 3
+斯卡米留尼之剑展示台 si'ka'mi'liu'ni'zhi'jian'zhan'shi'tai 3
+斯卡米留尼之剑展示台 si'qia'mi'liu'ni'zhi'jian'zhan'shi'tai 3
 斯卡米留尼之形 si'ka'mi'liu'ni'zhi'xing 3
 斯卡米留尼之形 si'qia'mi'liu'ni'zhi'xing 3
 斯卡艾瓦 si'ka'ai'wa 3
@@ -19252,6 +19443,7 @@
 旅行莫古力 lv'xing'mo'gu'li 3
 旅雀儿 lv'qiao'er 3
 旅雀儿 lv'que'er 3
+旅风行路 lv'feng'xing'lu 3
 旅馆 lv'guan 3
 旅馆内 lv'guan'nei 3
 旋体脚 xuan'ti'jiao 3
@@ -19312,6 +19504,7 @@
 旋风神血 xuan'feng'shen'xue 3
 旋风神诈 xuan'feng'shen'zha 3
 旋风踢 xuan'feng'ti 3
+旋骨利爪 xuan'gu'li'zhua 3
 旋齿鲨 xuan'chi'sha 3
 族据点 zu'ju'dian 3
 旗手 qi'shou 3
@@ -19406,6 +19599,8 @@
 无人岛棕榈叶 mo'ren'dao'zong'lv'ye 3
 无人岛棕榈叶 wu'ren'dao'zong'lv'xie 3
 无人岛棕榈叶 wu'ren'dao'zong'lv'ye 3
+无人岛水晶层 mo'ren'dao'shui'jing'ceng 3
+无人岛水晶层 wu'ren'dao'shui'jing'ceng 3
 无人岛海水鱼 mo'ren'dao'hai'shui'yu 3
 无人岛海水鱼 wu'ren'dao'hai'shui'yu 3
 无人岛灯火茸 mo'ren'dao'deng'huo'rong 3
@@ -19869,6 +20064,7 @@
 日环食 ri'huan'shi 3
 日珥 ri'er 3
 日珥斩 ri'er'zhan 3
+日珥焰棘 ri'er'yan'ji 3
 日用品的素材 ri'yong'pin'de'su'cai 3
 日用磨爪石 ri'yong'mo'zhao'dan 3
 日用磨爪石 ri'yong'mo'zhao'shi 3
@@ -20085,6 +20281,7 @@
 星光鳟鱼 xing'guang'zun'yu 3
 星八角 xing'ba'jiao 3
 星八角种子 xing'ba'jiao'zhong'zi 3
+星击 xing'ji 3
 星切 xing'qie 3
 星力 xing'li 3
 星吨 xing'dun 3
@@ -20096,9 +20293,14 @@
 星外天域篇 xing'wai'tian'yu'pian 3
 星外洋葱 xing'wai'yang'cong 3
 星外洋葱汤 xing'wai'yang'cong'tang 3
+星天 xing'tian 3
 星天停止 xing'tian'ting'zhi 3
+星天光 xing'tian'guang 3
+星天光环 xing'tian'guang'huan 3
+星天十字 xing'tian'shi'zi 3
 星天开门 xing'tian'kai'men 3
 星天文书 xing'tian'wen'shu 3
+星天极光 xing'tian'ji'guang 3
 星天爆击打 xing'tian'bao'ji'da 3
 星宇双足飞龙 xing'yu'shuang'zu'fei'long 3
 星宇安菲瑟龙 xing'yu'an'fei'se'long 3
@@ -20144,6 +20346,7 @@
 星月枝形吊灯 xing'yue'zhi'xing'diao'deng 3
 星材蛋糕 xing'cai'dan'gao 3
 星杖天球书卷 xing'zhang'tian'qiu'shu'juan 3
+星极临 xing'ji'lin 3
 星极光 xing'ji'guang 3
 星极图腾 xing'ji'tu'teng 3
 星极岩屑 xing'ji'yan'xie 3
@@ -20154,10 +20357,12 @@
 星极核爆 xing'ji'hu'bao 3
 星极水晶 xing'ji'shui'jing 3
 星极油 xing'ji'you 3
+星极炽光 xing'ji'chi'guang 3
 星极砂轮机 xing'ji'sha'lun'ji 3
 星极脉冲 xing'ji'mai'chong 3
 星极花 xing'ji'hua 3
 星极超流 xing'ji'chao'liu 3
+星极进升 xing'ji'jin'sheng 3
 星极队 xing'ji'dui 3
 星极项环 xing'ji'xiang'huan 3
 星极预言蛋 xing'ji'yu'yan'dan 3
@@ -20182,6 +20387,7 @@
 星点石英原石 xing'dian'shi'ying'yuan'dan 3
 星点石英原石 xing'dian'shi'ying'yuan'shi 3
 星点石英项环 xing'dian'shi'ying'xiang'huan 3
+星环贝 xing'huan'bei 3
 星球的叹息 xing'qiu'de'tan'xi 3
 星甲虫 xing'jia'chong 3
 星盘 xing'pan 3
@@ -20198,6 +20404,7 @@
 星磅炮 xing'bang'pao 3
 星磅炮 xing'pang'bao 3
 星磅炮 xing'pang'pao 3
+星空屏风 xing'kong'ping'feng 3
 星红石 xing'hong'dan 3
 星红石 xing'hong'shi 3
 星红石八音盒 xing'hong'dan'ba'yin'he 3
@@ -20418,6 +20625,7 @@
 智德狭路 zhi'de'xia'lu 3
 智德的试炼 zhi'de'de'shi'lian 3
 智慧不眠 zhi'hui'bu'mian 3
+智慧之河 zhi'hui'zhi'he 3
 智慧之灵 zhi'hui'zhi'ling 3
 智慧之间 zhi'hui'zhi'jian 3
 智慧信徒 zhi'hui'xin'tu 3
@@ -20455,11 +20663,14 @@
 暗之刺爪 an'zhi'ci'zhua 3
 暗之大树 an'zhi'da'shu 3
 暗之大泛滥 an'zhi'da'fan'lan 3
+暗之忆晶师 an'zhi'yi'jing'shi 3
 暗之枪 an'zhi'qiang 3
 暗之沼 an'zhi'zhao 3
 暗之炎 an'zhi'yan 3
 暗之炽焰 an'zhi'chi'yan 3
 暗之瞳 an'zhi'tong 3
+暗之重波动 an'zhi'chong'bo'dong 3
+暗之重波动 an'zhi'zhong'bo'dong 3
 暗之锁 an'zhi'suo 3
 暗之魔剑士 an'zhi'mo'jian'shi 3
 暗云 an'yun 3
@@ -20618,6 +20829,7 @@
 暗黑森林 an'hei'sen'lin 3
 暗黑气 an'hei'qi 3
 暗黑眼 an'hei'yan 3
+暗黑精灵 an'hei'jing'ling 3
 暗黑蛋耳坠 an'hei'dan'er'zhui 3
 暗黑锋 an'hei'feng 3
 暗黑雨水 an'hei'yu'shui 3
@@ -20626,6 +20838,7 @@
 暗黑骑士 an'hei'qi'shi 3
 暗黑骑手 an'hei'qi'shou 3
 暗黑魔法阵 an'hei'mo'fa'zhen 3
+暗黒 an'hei 3
 暗黒沼発動 an'hei'zhao'fa'dong 3
 暗龙 an'long 3
 暗龙战盔 an'long'zhan'kui 3
@@ -20640,6 +20853,7 @@
 暮光戒指 mu'guang'jie'zhi 3
 暮光手甲 mu'guang'shou'jia 3
 暮光手链 mu'guang'shou'lian 3
+暮光相 mu'guang'xiang 3
 暮光短袖罩衣 mu'guang'duan'xiu'zhao'yi 3
 暮光耳环 mu'guang'er'huan 3
 暮光腰带 mu'guang'yao'dai 3
@@ -20697,6 +20911,10 @@
 暴虐吼叫 bao'nve'hou'jiao 3
 暴躁魔导机车大魔 bao'zao'mo'dao'ji'che'da'mo 3
 暴雨 bao'yu 3
+暴雨涡风 bao'yu'guo'feng 3
+暴雨涡风 bao'yu'wo'feng 3
+暴雨潮风 bao'yu'chao'feng 3
+暴雨箭 bao'yu'jian 3
 暴雪元精 bao'xue'yuan'jing 3
 暴雪古菩猩猩 bao'xue'gu'pu'xing'xing 3
 暴雪雷蛟 bao'xue'lei'jiao 3
@@ -20762,6 +20980,7 @@
 曼德维尔 man'de'wei'er 3
 曼德维尔休息区 man'de'wei'er'xiu'xi'ou 3
 曼德维尔休息区 man'de'wei'er'xiu'xi'qu 3
+曼德维尔冒险者谷物片 man'de'wei'er'mao'xian'zhe'gu'wu'pian 3
 曼德维尔威严之剑 man'de'wei'er'wei'yan'zhi'jian 3
 曼德维尔威严之拳 man'de'wei'er'wei'yan'zhi'quan 3
 曼德维尔威严刺刀 man'de'wei'er'wei'yan'ci'dao 3
@@ -20911,6 +21130,9 @@
 月使鸢盾 yue'shi'yuan'dun 3
 月光 yue'guang 3
 月光丝 yue'guang'si 3
+月光仙人刺 yue'guang'xian'ren'ci 3
+月光仙人刺角笛 yue'guang'xian'ren'ci'jiao'di 3
+月光仙人刺角笛 yue'guang'xian'ren'ci'jue'di 3
 月光强化纤维 yue'guang'qiang'hua'xian'wei 3
 月光强化药 yue'guang'qiang'hua'yao 3
 月光枪 yue'guang'qiang 3
@@ -21106,6 +21328,7 @@
 月面仙人刺女王 yue'mian'xian'ren'ci'nv'wang 3
 月面仙人刺王子 yue'mian'xian'ren'ci'wang'zi 3
 月面仙人刺的花 yue'mian'xian'ren'ci'de'hua 3
+月面地下溪谷 yue'mian'di'xia'xi'gu 3
 月面死亡蠕虫 yue'mian'si'wang'ru'chong 3
 月面跃动机 yue'mian'yue'dong'ji 3
 月面跃动机认证密钥 yue'mian'yue'dong'ji'ren'zheng'mi'yao 3
@@ -21114,6 +21337,7 @@
 有型的文具套装 you'xing'de'wen'ju'tao'zhuang 3
 有型的文具套装的素材 you'xing'de'wen'ju'tao'zhuang'de'su'cai 3
 有毒植物 you'du'zhi'wu 3
+有毒气泡 you'du'qi'pao 3
 有毒物质 you'du'wu'zhi 3
 有毒花粉 you'du'hua'fen 3
 有生命巨石 you'sheng'ming'ju'dan 3
@@ -21146,6 +21370,7 @@
 朗德内尔 lang'de'nei'er 3
 朗德洛克斯 lang'de'luo'ke'si 3
 朗格卢瓦西耶 lang'ge'lu'wa'xi'ye 3
+望乡 wang'xiang 3
 望云塔 wang'yun'ta 3
 望樱湖畔 wang'ying'hu'pan 3
 望海天石 wang'hai'tian'dan 3
@@ -21273,6 +21498,7 @@
 本我 ben'wo 3
 本本石 ben'ben'dan 3
 本本石 ben'ben'shi 3
+本能 ben'neng 3
 札尔 zha'er 3
 札尔之剑 zha'er'zhi'jian 3
 札尔之门 zha'er'zhi'men 3
@@ -21436,6 +21662,7 @@
 杂乱的打底裤 za'luan'de'da'di'ku 3
 杂乱衣柜 za'luan'yi'gui 3
 杂乱餐盘 za'luan'can'pan 3
+杂志展示架 za'zhi'zhan'shi'jia 3
 杂技 za'ji 3
 杂技演员的小刀 za'ji'yan'yuan'de'xiao'dao 3
 杂技炸弹 za'ji'zha'dan 3
@@ -21456,7 +21683,9 @@
 权力的呐喊 quan'li'de'na'han 3
 村长屋前 cun'zhang'wu'qian 3
 村雨 cun'yu 3
+杖击 zhang'ji 3
 杖蟾蜍 zhang'chan'chu 3
+杜兰特 du'lan'te 3
 杜华林 du'hua'lin 3
 杜尔胡 du'er'hu 3
 杜尔迦 du'er'jia 3
@@ -21464,6 +21693,8 @@
 杜父鱼 du'fu'yu 3
 杜穆齐德 du'mu'qi'de 3
 杜莫伊 du'mo'yi 3
+杜蒂娜鱼 du'di'na'yu 3
+杜蒂娜鱼 du'di'nuo'yu 3
 杜鹃花盆栽 du'juan'hua'pen'zai 3
 束带路 shu'dai'lu 3
 束手无策的农妇 shu'shou'mo'ce'de'nong'fu 3
@@ -21648,6 +21879,12 @@
 枉曲术 wang'qu'shu 3
 枉曲术 wang'qu'zhu 3
 枕头 zhen'tou 3
+林地守护者上装 lin'di'shou'hu'zhe'shang'zhuang 3
+林地守护者指套 lin'di'shou'hu'zhe'zhi'tao 3
+林地守护者短裙 lin'di'shou'hu'zhe'duan'qun 3
+林地守护者长靴 lin'di'shou'hu'zhe'chang'xue 3
+林地守护者长靴 lin'di'shou'hu'zhe'zhang'xue 3
+林地守护者马裤 lin'di'shou'hu'zhe'ma'ku 3
 林地犀蜴 lin'di'xi'yi 3
 林场水车 lin'chang'shui'che 3
 林巴克尔 lin'ba'ke'er 3
@@ -21710,6 +21947,7 @@
 枪徒高筒靴 qiang'tu'gao'tong'xue 3
 枪扫击 qiang'sao'ji 3
 枪斩回击 qiang'zhan'hui'ji 3
+枪旗飘扬 qiang'qi'piao'yang 3
 枪术大师戒指 qiang'shu'da'shi'jie'zhi 3
 枪术师冒险者 qiang'shu'shi'mao'xian'zhe 3
 枪术师护卫 qiang'shu'shi'hu'wei 3
@@ -21987,6 +22225,10 @@
 核爆弹 he'bao'tan 3
 核爆弹 hu'bao'dan 3
 核爆弹 hu'bao'tan 3
+核爆火印 he'bao'huo'yin 3
+核爆火印 hu'bao'huo'yin 3
+核爆火花 he'bao'huo'hua 3
+核爆火花 hu'bao'huo'hua 3
 核爆灾祸 he'bao'zai'huo 3
 核爆灾祸 hu'bao'zai'huo 3
 核爆爆发 he'bao'bao'fa 3
@@ -22121,10 +22363,10 @@
 桑扬沙 sang'yang'sha 3
 桑松正牙尉 sang'song'zheng'ya'wei 3
 桑松正牙尉 sang'song'zheng'ya'yu 3
-桓娑咖喱 huan'suo'ga'li 3
 桓娑牧场遗址 huan'suo'mu'chang'yi'zhi 3
-桓娑胸肉 huan'suo'xiong'rou 3
 桓娑鸟 huan'suo'niao 3
+桓娑鸟肉咖喱 huan'suo'niao'rou'ga'li 3
+桓娑鸟胸肉 huan'suo'niao'xiong'rou 3
 桔黄 jie'huang 3
 桤木泉 qi'mu'quan 3
 桥上之战 qiao'shang'zhi'zhan 3
@@ -22189,6 +22431,8 @@
 梅花贝 mei'hua'bei 3
 梅茵菲娜 mei'yin'fei'na 3
 梅茵菲娜 mei'yin'fei'nuo 3
+梅茵菲娜之慈爱 mei'yin'fei'na'zhi'ci'ai 3
+梅茵菲娜之慈爱 mei'yin'fei'nuo'zhi'ci'ai 3
 梅茵菲娜月桂 mei'yin'fei'na'yue'gui 3
 梅茵菲娜月桂 mei'yin'fei'nuo'yue'gui 3
 梅茵菲娜的加护 mei'yin'fei'na'de'jia'hu 3
@@ -22571,6 +22815,7 @@
 次元斬 ci'yuan'zhan 3
 次元断绝阵列 ci'yuan'duan'jue'zhen'lie 3
 次元波 ci'yuan'bo 3
+次元涌动 ci'yuan'yong'dong 3
 次元的缺口 ci'yuan'de'que'kou 3
 次元终结 ci'yuan'zhong'jie 3
 次元缝隙迎宾室 ci'yuan'feng'xi'ying'bin'shi 3
@@ -22664,6 +22909,8 @@
 欧米茄鸢盾 ou'mi'qie'yuan'dun 3
 欧米茄黄道仪 ou'mi'jia'huang'dao'yi 3
 欧米茄黄道仪 ou'mi'qie'huang'dao'yi 3
+欧罗基亚 ou'luo'ji'ya 3
+欧罗基亚的分身 ou'luo'ji'ya'de'fen'shen 3
 欧芙洛绪涅变种树 ou'fu'luo'xu'nie'bian'zhong'shu 3
 欧芙洛绪涅巨兵 ou'fu'luo'xu'nie'ju'bing 3
 欧芙洛绪涅巨蟾蜍 ou'fu'luo'xu'nie'ju'chan'chu 3
@@ -22944,6 +23191,7 @@
 武士鱼 wu'shi'yu 3
 武备 wu'bei 3
 武尔索 wu'er'suo 3
+武意高昂 wu'yi'gao'ang 3
 武斗鱼 wu'dou'yu 3
 武断花苞 wu'duan'hua'bao 3
 武断花蕾 wu'duan'hua'lei 3
@@ -22992,6 +23240,7 @@
 死亡 si'wang 3
 死亡之吻 si'wang'zhi'wen 3
 死亡之影 si'wang'zhi'ying 3
+死亡之旅 si'wang'zhi'lv 3
 死亡之涡 si'wang'zhi'guo 3
 死亡之涡 si'wang'zhi'wo 3
 死亡使者 si'wang'shi'zhe 3
@@ -23008,7 +23257,6 @@
 死亡气息 si'wang'qi'xi 3
 死亡沙漏 si'wang'sha'lou 3
 死亡波纹 si'wang'bo'wen 3
-死亡流动 si'wang'liu'dong 3
 死亡环刺 si'wang'huan'ci 3
 死亡的命运 si'wang'de'ming'yun 3
 死亡翅脉 si'wang'chi'mai 3
@@ -23279,6 +23527,7 @@
 比对文献 bi'dui'wen'xian 3
 比尔格 bi'er'ge 3
 比尔格之塔 bi'er'ge'zhi'ta 3
+比尔格之技艺 bi'er'ge'zhi'ji'yi 3
 比尔格之锤 bi'er'ge'zhi'chui 3
 比尔格的分身 bi'er'ge'de'fen'shen 3
 比尔格的加护 bi'er'ge'de'jia'hu 3
@@ -23289,6 +23538,7 @@
 比尔格紫罗兰的种子 bi'er'ge'zi'luo'lan'de'zhong'zi 3
 比尔格紫罗兰项环 bi'er'ge'zi'luo'lan'xiang'huan 3
 比布鲁斯 bi'bu'lu'si 3
+比心 bi'xin 3
 比朗大矿山 bi'lang'da'kuang'shan 3
 比朗螃蟹 bi'lang'pang'xie 3
 比格斯 bi'ge'si 3
@@ -23429,6 +23679,7 @@
 水之式神 shui'zhi'shi'shen 3
 水之晶簇 shui'zhi'jing'cu 3
 水之枪 shui'zhi'qiang 3
+水之概念 shui'zhi'gai'nian 3
 水之气 shui'zhi'qi 3
 水之水晶 shui'zhi'shui'jing 3
 水之波动 shui'zhi'bo'dong 3
@@ -23489,6 +23740,7 @@
 水城石罐 shui'cheng'shi'guan 3
 水墙 shui'qiang 3
 水墨鱼 shui'mo'yu 3
+水天 shui'tian 3
 水天一碧 shui'tian'yi'bi 3
 水天奥秘 shui'tian'ao'mi 3
 水妖 shui'yao 3
@@ -23541,6 +23793,7 @@
 水晶吊灯 shui'jing'diao'deng 3
 水晶圆头锤 shui'jing'yuan'tou'chui 3
 水晶圆革刀 shui'jing'yuan'ge'dao 3
+水晶地下湖 shui'jing'di'xia'hu 3
 水晶垒石 shui'jing'lei'dan 3
 水晶垒石 shui'jing'lei'shi 3
 水晶塔 shui'jing'ta 3
@@ -23550,6 +23803,7 @@
 水晶壁挂 shui'jing'bi'gua 3
 水晶守护者 shui'jing'shou'hu'zhe 3
 水晶工艺锤 shui'jing'gong'yi'chui 3
+水晶广场 shui'jing'guang'chang 3
 水晶序曲 shui'jing'xu'qu 3
 水晶序曲版 shui'jing'xu'qu'ban 3
 水晶弹雨 shui'jing'dan'yu 3
@@ -23581,10 +23835,20 @@
 水晶都厨房壁炉 shui'jing'du'chu'fang'bi'lu 3
 水晶都吊坠壁灯 shui'jing'dou'diao'zhui'bi'deng 3
 水晶都吊坠壁灯 shui'jing'du'diao'zhui'bi'deng 3
+水晶都壁挂雨棚 shui'jing'dou'bi'gua'yu'peng 3
+水晶都壁挂雨棚 shui'jing'du'bi'gua'yu'peng 3
 水晶都机械式收银台 shui'jing'dou'ji'xie'shi'shou'yin'tai 3
 水晶都机械式收银台 shui'jing'du'ji'xie'shi'shou'yin'tai 3
 水晶都的卫兵 shui'jing'dou'de'wei'bing 3
 水晶都的卫兵 shui'jing'du'de'wei'bing 3
+水晶都神童上装 shui'jing'dou'shen'tong'shang'zhuang 3
+水晶都神童上装 shui'jing'du'shen'tong'shang'zhuang 3
+水晶都神童半指护手 shui'jing'dou'shen'tong'ban'zhi'hu'shou 3
+水晶都神童半指护手 shui'jing'du'shen'tong'ban'zhi'hu'shou 3
+水晶都神童骑兵裤 shui'jing'dou'shen'tong'qi'bing'ku 3
+水晶都神童骑兵裤 shui'jing'du'shen'tong'qi'bing'ku 3
+水晶都神童高筒靴 shui'jing'dou'shen'tong'gao'tong'xue 3
+水晶都神童高筒靴 shui'jing'du'shen'tong'gao'tong'xue 3
 水晶都脂鲤 shui'jing'dou'zhi'li 3
 水晶都脂鲤 shui'jing'du'zhi'li 3
 水晶都茶壶 shui'jing'dou'cha'hu 3
@@ -23970,6 +24234,7 @@
 沉船耳饰 chen'chuan'er'shi 3
 沉船项链 chen'chuan'xiang'lian 3
 沉重一击 chen'zhong'yi'ji 3
+沉重之网 chen'zhong'zhi'wang 3
 沉重冲击 chen'zhong'chong'ji 3
 沉重打击 chen'zhong'da'ji 3
 沉重的自我 chen'zhong'de'zi'wo 3
@@ -23993,6 +24258,7 @@
 沙之都风景画 sha'zhi'dou'feng'jing'hua 3
 沙之都风景画 sha'zhi'du'feng'jing'hua 3
 沙利亚克 sha'li'ya'ke 3
+沙利亚克之灵慧 sha'li'ya'ke'zhi'ling'hui 3
 沙利亚克大瀑布 sha'li'ya'ke'da'pu'bu 3
 沙利亚克河 sha'li'ya'ke'he 3
 沙利亚克河上流 sha'li'ya'ke'he'shang'liu 3
@@ -24255,6 +24521,7 @@
 泛光灯 fan'guang'deng 3
 泛洪金枪鱼 fan'hong'jin'qiang'yu 3
 泛滥 fan'lan 3
+泛生论 fan'sheng'lun 3
 泛输血 fan'shu'xue 3
 泡影 pao'ying 3
 泡沫之心 pao'mo'zhi'xin 3
@@ -24449,6 +24716,9 @@
 泽梅尔番茄种子 ze'mei'er'fan'qie'zhong'zi 3
 泽梅尔要塞 ze'mei'er'yao'sai 3
 泽泽卢恩 ze'ze'lu'en 3
+泽罗姆斯 ze'luo'mu'si 3
+泽罗姆斯的追忆 ze'luo'mu'si'de'zhui'yi 3
+泽罗姆斯装甲 ze'luo'mu'si'zhuang'jia 3
 泽菲兰 ze'fei'lan 3
 泽雷斯 ze'lei'si 3
 泽鹰 ze'ying 3
@@ -24616,6 +24886,7 @@
 流冰圆庭 liu'bing'yuan'ting 3
 流冰带 liu'bing'dai 3
 流出 liu'chu 3
+流动 liu'dong 3
 流动恩戈齐 liu'dong'en'ge'qi 3
 流动的卷云 liu'dong'de'juan'yun 3
 流散 liu'san 3
@@ -24642,6 +24913,7 @@
 流水爆发 liu'shui'bao'fa 3
 流汤 liu'tang 3
 流沙屋 liu'sha'wu 3
+流沙泉 liu'sha'quan 3
 流沙石蜥蜴 liu'sha'dan'xi'yi 3
 流沙石蜥蜴 liu'sha'shi'xi'yi 3
 流沙迷宫樵鸣洞 liu'sha'mi'gong'qiao'ming'dong 3
@@ -24792,6 +25064,10 @@
 海将舰桥 hai'jiang'jian'qiao 3
 海小鸥 hai'xiao'ou 3
 海岛 hai'dao 3
+海岛休假五分裤 hai'dao'xiu'jia'wu'fen'ku 3
+海岛休假潜水表 hai'dao'xiu'jia'qian'shui'biao 3
+海岛休假皮鞋 hai'dao'xiu'jia'pi'xie 3
+海岛休假衬衫 hai'dao'xiu'jia'chen'shan 3
 海岛假日 hai'dao'jia'ri 3
 海岛假日凉鞋 hai'dao'jia'ri'liang'xie 3
 海岛假日夏裤 hai'dao'jia'ri'xia'ku 3
@@ -24830,8 +25106,15 @@
 海岛新薯的芽块 hai'dao'xin'shu'de'ya'kuai 3
 海岛木制项链 hai'dao'mu'zhi'xiang'lian 3
 海岛木刷 hai'dao'mu'shua 3
+海岛树叶头饰 hai'dao'shu'ye'tou'shi 3
 海岛棕榈树 hai'dao'zong'lv'shu 3
+海岛水果潘趣酒 hai'dao'shui'guo'pan'qu'jiu 3
 海岛水牛角笛 hai'dao'shui'niu'jiao'di 3
+海岛水牛豆沙拉 hai'dao'shui'niu'dou'sha'la 3
+海岛水牛豆种子 hai'dao'shui'niu'dou'zhong'zi 3
+海岛沙漠玫瑰 hai'dao'sha'mo'mei'gui 3
+海岛沙漠玫瑰角笛 hai'dao'sha'mo'mei'gui'jiao'di 3
+海岛沙漠玫瑰角笛 hai'dao'sha'mo'mei'gui'jue'di 3
 海岛洋葱的种子 hai'dao'yang'cong'de'zhong'zi 3
 海岛牧人凉鞋 hai'dao'mu'ren'liang'xie 3
 海岛牧人头饰 hai'dao'mu'ren'tou'shi 3
@@ -24842,7 +25125,11 @@
 海岛珊瑚戒指 hai'dao'shan'hu'jie'zhi 3
 海岛甘蓝 hai'dao'gan'lan 3
 海岛甘蓝的种子 hai'dao'gan'lan'de'zhong'zi 3
+海岛甜新薯挞 hai'dao'tian'xin'shu'ta 3
+海岛甜新薯芽块 hai'dao'tian'xin'shu'ya'kuai 3
 海岛番茄的种子 hai'dao'fan'qie'de'zhong'zi 3
+海岛皮里福尔角笛 hai'dao'pi'li'fu'er'jiao'di 3
+海岛皮里福尔角笛 hai'dao'pi'li'fu'er'jue'di 3
 海岛短吻鳄角笛 hai'dao'duan'wen'e'jiao'di 3
 海岛短吻鳄角笛 hai'dao'duan'wen'e'jue'di 3
 海岛石榴石刺剑 hai'dao'shi'liu'dan'ci'jian 3
@@ -24850,6 +25137,7 @@
 海岛石英戒指 hai'dao'shi'ying'jie'zhi 3
 海岛红菜的种子 hai'dao'hong'cai'de'zhong'zi 3
 海岛绳索 hai'dao'sheng'suo 3
+海岛翠银环刃 hai'dao'cui'yin'huan'ren 3
 海岛花豆 hai'dao'hua'dou 3
 海岛花豆的豆子 hai'dao'hua'dou'de'dou'zi 3
 海岛茄子的种子 hai'dao'qie'zi'de'zhong'zi 3
@@ -24858,7 +25146,12 @@
 海岛莓果酱 hai'dao'mei'guo'jiang 3
 海岛蓝蛋白石 hai'dao'lan'dan'bai'dan 3
 海岛蓝蛋白石 hai'dao'lan'dan'bai'shi 3
+海岛西兰花 hai'dao'xi'lan'hua 3
+海岛西兰花苗 hai'dao'xi'lan'hua'miao 3
+海岛西瓜 hai'dao'xi'gua 3
+海岛西瓜种子 hai'dao'xi'gua'zhong'zi 3
 海岛西葫芦的种子 hai'dao'xi'hu'lu'de'zhong'zi 3
+海岛迷你礼帽 hai'dao'mi'ni'li'mao 3
 海岛追忆 hai'dao'zhui'yi 3
 海岛阳伞桌 hai'dao'yang'san'zhuo 3
 海岛韭葱 hai'dao'jiu'cong 3
@@ -24872,6 +25165,7 @@
 海岸鮟鱇 hai'an'an'kang 3
 海巫婆 hai'wu'po 3
 海市蜃楼 hai'shi'shen'lou 3
+海底吊灯 hai'di'diao'deng 3
 海底地震 hai'di'di'zhen 3
 海底岩 hai'di'yan 3
 海底火山 hai'di'huo'shan 3
@@ -24883,6 +25177,7 @@
 海德伦 hai'de'lun 3
 海德拉 hai'de'la 3
 海德林 hai'de'lin 3
+海德林偶像 hai'de'lin'ou'xiang 3
 海德林光线 hai'de'lin'guang'xian 3
 海德林的回声 hai'de'lin'de'hui'sheng 3
 海怪战车 hai'guai'zhan'che 3
@@ -24904,6 +25199,7 @@
 海沟尤比拉 hai'gou'you'bi'la 3
 海沟左米特 hai'gou'zuo'mi'te 3
 海沟风花 hai'gou'feng'hua 3
+海泡 hai'pao 3
 海洋专业专用外套 hai'yang'zhuan'ye'zhuan'yong'wai'tao 3
 海洋专业专用工作手套 hai'yang'zhuan'ye'zhuan'yong'gong'zuo'shou'tao 3
 海洋专业专用工作裤 hai'yang'zhuan'ye'zhuan'yong'gong'zuo'ku 3
@@ -24916,12 +25212,15 @@
 海洋之种 hai'yang'zhi'zhong 3
 海洋区 hai'yang'ou 3
 海洋区 hai'yang'qu 3
+海洋女神的小刀 hai'yang'nv'shen'de'xiao'dao 3
+海洋女神的尖枪 hai'yang'nv'shen'de'jian'qiang 3
 海洋怪声 hai'yang'guai'sheng 3
 海洋的恩惠 hai'yang'de'en'hui 3
 海洋礼花筒 hai'yang'li'hua'tong 3
 海洋蟾蜍 hai'yang'chan'chu 3
 海洋陷阱 hai'yang'xian'jing 3
 海流星 hai'liu'xing 3
+海浪回环 hai'lang'hui'huan 3
 海浪飞扬 hai'lang'fei'yang 3
 海港新闻 hai'gang'xin'wen 3
 海港鲱 hai'gang'fei 3
@@ -25259,10 +25558,12 @@
 深海恶 shen'hai'e 3
 深海恶 shen'hai'wu 3
 深海水蛭 shen'hai'shui'zhi 3
+深海灵性岩 shen'hai'ling'xing'yan 3
 深海莫高海蛇 shen'hai'mo'gao'hai'she 3
 深海风花 shen'hai'feng'hua 3
 深海鳗 shen'hai'man 3
 深渊 shen'yuan 3
+深渊之夜 shen'yuan'zhi'ye 3
 深渊之镰 shen'yuan'zhi'lian 3
 深渊嚎 shen'yuan'hao 3
 深渊手铠 shen'yuan'shou'kai 3
@@ -25270,6 +25571,8 @@
 深渊胸甲 shen'yuan'xiong'jia 3
 深渊蓝 shen'yuan'lan 3
 深渊轻盔 shen'yuan'qing'kui 3
+深渊连爪 shen'yuan'lian'zhao 3
+深渊连爪 shen'yuan'lian'zhua 3
 深渊重足铠 shen'yuan'chong'zu'kai 3
 深渊重足铠 shen'yuan'zhong'zu'kai 3
 深渊铡刀 shen'yuan'zha'dao 3
@@ -25788,6 +26091,7 @@
 源氏骑士武具 yuan'zhi'qi'shi'wu'ju 3
 源泉之梯 yuan'quan'zhi'ti 3
 溪泉园 xi'quan'yuan 3
+溪谷深处 xi'gu'shen'chu 3
 溶洞 rong'dong 3
 溶洞 rong'tong 3
 溶洞咸淡水 rong'dong'xian'dan'shui 3
@@ -25841,6 +26145,7 @@
 滔滔不绝的莫古力 tao'tao'bu'jue'de'mo'gu'li 3
 滚动巨石 gun'dong'ju'dan 3
 滚动巨石 gun'dong'ju'shi 3
+滚岩 gun'yan 3
 滚滚叶小妖 gun'gun'xie'xiao'yao 3
 滚滚叶小妖 gun'gun'ye'xiao'yao 3
 滚烫吐息 gun'tang'tu'xi 3
@@ -26087,6 +26392,7 @@
 火之天王的斗篷 huo'zhi'tian'wang'de'dou'peng 3
 火之式神 huo'zhi'shi'shen 3
 火之晶簇 huo'zhi'jing'cu 3
+火之概念 huo'zhi'gai'nian 3
 火之水晶 huo'zhi'shui'jing 3
 火之灾变 huo'zhi'zai'bian 3
 火之画作 huo'zhi'hua'zuo 3
@@ -26368,6 +26674,7 @@
 灵兽的角粉 ling'shou'de'jiao'fen 3
 灵兽的角粉 ling'shou'de'jue'fen 3
 灵冰之剑 ling'bing'zhi'jian 3
+灵击 ling'ji 3
 灵动之眼 ling'dong'zhi'yan 3
 灵土之剑 ling'tu'zhi'jian 3
 灵妙 ling'miao 3
@@ -26388,10 +26695,13 @@
 灵木之杖 ling'mu'zhi'zhang 3
 灵木树液块 ling'mu'shu'ye'kuai 3
 灵杖天球书卷 ling'zhang'tian'qiu'shu'juan 3
+灵极临 ling'ji'lin 3
 灵极图腾 ling'ji'tu'teng 3
 灵极岩屑 ling'ji'yan'xie 3
 灵极水晶 ling'ji'shui'jing 3
+灵极炽光 ling'ji'chi'guang 3
 灵极的约定之锤 ling'ji'de'yue'ding'zhi'chui 3
+灵极进升 ling'ji'jin'sheng 3
 灵极重击 ling'ji'chong'ji 3
 灵极重击 ling'ji'zhong'ji 3
 灵极队 ling'ji'dui 3
@@ -26491,6 +26801,7 @@
 灵鸣炮 ling'ming'pao 3
 灵龙 ling'long 3
 灵龙坐像 ling'long'zuo'xiang 3
+灼伤 zhuo'shang 3
 灼伤波动 zhuo'shang'bo'dong 3
 灼炎 zhuo'yan 3
 灼炎创火 zhuo'yan'chuang'huo 3
@@ -26918,6 +27229,7 @@
 热心工作的工人 re'xin'gong'zuo'de'gong'ren 3
 热情律动 re'qing'lv'dong 3
 热情的一击 re'qing'de'yi'ji 3
+热情的奔流 re'qing'de'ben'liu 3
 热情的少女 re'qing'de'shao'nv 3
 热情的波动 re'qing'de'bo'dong 3
 热情的闪光 re'qing'de'shan'guang 3
@@ -26968,6 +27280,8 @@
 热腾腾的火洞 re'teng'teng'de'huo'tong 3
 热蒸汽 re'zheng'qi 3
 热血沸腾 re'xue'fei'teng 3
+热质说 re'zhi'shui 3
+热质说 re'zhi'shuo 3
 热身 re'shen 3
 热闪 re'shan 3
 热雷 re'lei 3
@@ -27044,6 +27358,7 @@
 焚者群落 fen'zhe'qun'lao 3
 焚者群落 fen'zhe'qun'luo 3
 焚身炎戟 fen'shen'yan'ji 3
+焚风箭 fen'feng'jian 3
 無明閃 wu'ming'shan 3
 無明閃 mo'ming'shan 3
 無詠唱 wu'yong'chang 3
@@ -27068,6 +27383,7 @@
 焦热地狱 jiao're'di'yu 3
 焦热巨龙 jiao're'ju'long 3
 焦热村落 jiao're'cun'luo 3
+焦热波 jiao're'bo 3
 焦糖 jiao'tang 3
 焦糖牛奶沙司 jiao'tang'niu'nai'sha'si 3
 焦黑战斧 jiao'hei'zhan'fu 3
@@ -27535,6 +27851,7 @@
 特别警戒恐慌装甲 te'bie'jing'jie'kong'huang'zhuang'jia 3
 特别预言蛋 te'bie'yu'yan'dan 3
 特制 te'zhi 3
+特制光明的零点海报 te'zhi'guang'ming'de'ling'dian'hai'bao 3
 特制奖励 te'zhi'jiang'li 3
 特制崭新的冒险海报 te'zhi'zhan'xin'de'mao'xian'hai'bao 3
 特制忠犬玩偶 te'zhi'zhong'quan'wan'ou 3
@@ -27647,10 +27964,18 @@
 犹如夏雨 you'ru'xia'yu 3
 狂乱 kuang'luan 3
 狂乱之拳 kuang'luan'zhi'quan 3
+狂乱公雏鸟 kuang'luan'gong'chu'niao 3
 狂乱前奏海报 kuang'luan'qian'zou'hai'bao 3
+狂乱哥布林 kuang'luan'ge'bu'lin 3
+狂乱曼提克 kuang'luan'man'di'ke 3
+狂乱曼提克 kuang'luan'man'ti'ke 3
+狂乱毒蜥蜴 kuang'luan'du'xi'yi 3
 狂乱猛冲 kuang'luan'meng'chong 3
 狂乱的旋击 kuang'luan'de'xuan'ji 3
+狂乱贝希摩斯 kuang'luan'bei'xi'ma'si 3
+狂乱贝希摩斯 kuang'luan'bei'xi'mo'si 3
 狂乱领域 kuang'luan'ling'yu 3
+狂乱魔界花 kuang'luan'mo'jie'hua 3
 狂人 kuang'ren 3
 狂人低语 kuang'ren'di'yu 3
 狂吠 kuang'fei 3
@@ -27740,6 +28065,7 @@
 狂雪风 kuang'xue'feng 3
 狂风 kuang'feng 3
 狂风云海 kuang'feng'yun'hai 3
+狂风旋圆 kuang'feng'xuan'yuan 3
 狂风暴羽 kuang'feng'bao'yu 3
 狂风暴雨 kuang'feng'bao'yu 3
 狂风暴雪 kuang'feng'bao'xue 3
@@ -28183,6 +28509,18 @@
 猫耳小伞 mao'er'xiao'san 3
 猫耳小员 mao'er'xiao'yuan 3
 猫耳小员 mao'er'xiao'yun 3
+猫耳小员兜帽 mao'er'xiao'yuan'dou'mao 3
+猫耳小员兜帽 mao'er'xiao'yun'dou'mao 3
+猫耳小员手套 mao'er'xiao'yuan'shou'tao 3
+猫耳小员手套 mao'er'xiao'yun'shou'tao 3
+猫耳小员束腰衣 mao'er'xiao'yuan'shu'yao'yi 3
+猫耳小员束腰衣 mao'er'xiao'yun'shu'yao'yi 3
+猫耳小员束膝裤 mao'er'xiao'yuan'shu'xi'ku 3
+猫耳小员束膝裤 mao'er'xiao'yun'shu'xi'ku 3
+猫耳小员票据 mao'er'xiao'yuan'piao'ju 3
+猫耳小员票据 mao'er'xiao'yun'piao'ju 3
+猫耳小员高筒靴 mao'er'xiao'yuan'gao'tong'xue 3
+猫耳小员高筒靴 mao'er'xiao'yun'gao'tong'xue 3
 猫耳小小员 mao'er'xiao'xiao'yuan 3
 猫耳小小员 mao'er'xiao'xiao'yun 3
 猫耳装甲 mao'er'zhuang'jia 3
@@ -28454,6 +28792,7 @@
 玛门魔锄 ma'men'mo'chu 3
 玛霍德 ma'huo'de 3
 玩偶 wan'ou 3
+玩偶头 wan'ou'tou 3
 玩偶奇美拉 wan'ou'ji'mei'la 3
 玩偶奇美拉 wan'ou'qi'mei'la 3
 玩偶展示柜 wan'ou'zhan'shi'gui 3
@@ -28523,6 +28862,7 @@
 环舞 huan'wu 3
 环轮水母 huan'lun'shui'mu 3
 环链之间 huan'lian'zhi'jian 3
+环间罗非鱼 huan'jian'luo'fei'yu 3
 现代铠甲 xian'dai'kai'jia 3
 现代鼻眼镜 xian'dai'bi'yan'jing 3
 现实增强室 xian'shi'zeng'qiang'shi 3
@@ -28547,6 +28887,7 @@
 玻璃鳗 bo'li'man 3
 珀尔修斯之弓 po'er'xiu'si'zhi'gong 3
 珀拉吉恩 po'la'ji'en 3
+珀琉喀斯 po'liu'ka'si 3
 珀罗 po'luo 3
 珂露西亚岛 ke'lou'xi'ya'dao 3
 珂露西亚岛 ke'lu'xi'ya'dao 3
@@ -29013,6 +29354,7 @@
 甜尾石莲猬 tian'yi'shi'lian'wei 3
 甜年糕 tian'nian'gao 3
 甜扁桃 tian'bian'tao 3
+甜新薯 tian'xin'shu 3
 甜气 tian'qi 3
 甜水 tian'shui 3
 甜滤果树园 tian'lv'guo'shu'yuan 3
@@ -29500,6 +29842,7 @@
 瘴气术 zhang'qi'shu 3
 瘴气术 zhang'qi'zhu 3
 瘴气流 zhang'qi'liu 3
+瘴气爆发 zhang'qi'bao'fa 3
 瘴气飞散 zhang'qi'fei'san 3
 瘴気塊 zhang'qi'kuai 3
 瘴疠 zhang'li 3
@@ -29580,6 +29923,7 @@
 白夜结晶板 bai'ye'jie'jing'ban 3
 白夜腰甲 bai'ye'yao'jia 3
 白天鹅之羽 bai'tian'e'zhi'yu 3
+白头浪 bai'tou'lang 3
 白妙草 bai'miao'cao 3
 白妙鲤 bai'miao'li 3
 白姑鱼 bai'gu'yu 3
@@ -30208,6 +30552,7 @@
 皮肤很好的研究员 pi'fu'hen'hao'de'yan'jiu'yuan 3
 皮艾萨邪鸟 pi'ai'sa'xie'niao 3
 皮艾萨邪鸟 pi'yi'sa'xie'niao 3
+皮蒂 pi'di 3
 皮藤小口花 pi'teng'xiao'kou'hua 3
 皮衣 pi'yi 3
 皮里福尔 pi'li'fu'er 3
@@ -30481,6 +30826,7 @@
 真光层巨骨舌鱼 zhen'guang'ceng'ju'gu'she'yu 3
 真北 zhen'bei 3
 真厉害级魔法人偶用开拓设备 zhen'li'hai'ji'mo'fa'ren'ou'yong'kai'tuo'she'bei 3
+真厉害级魔法人偶用碎岩设备 zhen'li'hai'ji'mo'fa'ren'ou'yong'sui'yan'she'bei 3
 真备 zhen'bei 3
 真夜舞蹈 zhen'ye'wu'dao 3
 真妖异全集手抄本 zhen'yao'yi'quan'ji'shou'chao'ben 3
@@ -30598,6 +30944,9 @@
 着地 zhe'di 3
 着地 zhuo'de 3
 着地 zhuo'di 3
+着弾 zhao'dan 3
+着弾 zhe'dan 3
+着弾 zhuo'dan 3
 着陆 zhuo'lu 3
 着陆点 zhuo'lu'dian 3
 着魔魔菇 zhao'mo'mo'gu 3
@@ -30658,6 +31007,7 @@
 知识 zhi'shi 3
 知识之书 zhi'shi'zhi'shu 3
 知识的水瓶 zhi'shi'de'shui'ping 3
+知识的激流 zhi'shi'de'ji'liu 3
 知识神 zhi'shi'shen 3
 知识神之书 zhi'shi'shen'zhi'shu 3
 知识神之典 zhi'shi'shen'zhi'dian 3
@@ -30668,6 +31018,7 @@
 知识神幻杖 zhi'shi'shen'huan'zhang 3
 知识神戒指 zhi'shi'shen'jie'zhi 3
 知识神杜父鱼 zhi'shi'shen'du'fu'yu 3
+知识神水乡 zhi'shi'shen'shui'xiang 3
 知识神水瓶 zhi'shi'shen'shui'ping 3
 知识神海港 zhi'shi'shen'hai'gang 3
 知识神长杖 zhi'shi'shen'chang'zhang 3
@@ -30845,6 +31196,7 @@
 石材和调整材料 shi'cai'huo'tiao'zheng'cai'liao 3
 石板巨像 shi'ban'ju'xiang 3
 石板灰 shi'ban'hui 3
+石柱 shi'zhu 3
 石桥 shi'qiao 3
 石桥的卫兵 shi'qiao'de'wei'bing 3
 石棉矿妖虫 shi'mian'kuang'yao'chong 3
@@ -30942,6 +31294,10 @@
 石绿湖西北岸 dan'lv'hu'xi'bei'an 3
 石绿湖西北岸 shi'lu'hu'xi'bei'an 3
 石绿湖西北岸 shi'lv'hu'xi'bei'an 3
+石绿湖西北湖底 dan'lu'hu'xi'bei'hu'di 3
+石绿湖西北湖底 dan'lv'hu'xi'bei'hu'di 3
+石绿湖西北湖底 shi'lu'hu'xi'bei'hu'di 3
+石绿湖西北湖底 shi'lv'hu'xi'bei'hu'di 3
 石绿湖陆鱼 dan'lu'hu'liu'yu 3
 石绿湖陆鱼 dan'lu'hu'lu'yu 3
 石绿湖陆鱼 dan'lv'hu'liu'yu 3
@@ -31086,6 +31442,7 @@
 研磨油 yan'mo'you 3
 研磨石 yan'mo'dan 3
 研磨石 yan'mo'shi 3
+研究员的休息必需品 yan'jiu'yuan'de'xiu'xi'bi'xu'pin 3
 研究所弥诺陶洛斯 yan'jiu'suo'mi'nuo'tao'luo'si 3
 研究所沟鼠 yan'jiu'suo'gou'shu 3
 研究所洋葱 yan'jiu'suo'yang'cong 3
@@ -31116,20 +31473,14 @@
 破坏一切的黑色巨人 po'huai'yi'qie'de'hei'se'ju'ren 3
 破坏一切的黑色巨人 po'huai'yi'qie'de'hei'shai'ju'ren 3
 破坏之彗星 po'huai'zhi'hui'xing 3
-破坏之拳 po'huai'zhi'quan 3
 破坏之杖 po'huai'zhi'zhang 3
-破坏之翼 po'huai'zhi'yi 3
-破坏再生 po'huai'zai'sheng 3
-破坏小魔精 po'huai'xiao'mo'jing 3
-破坏本能 po'huai'ben'neng 3
-破坏炮击 po'huai'pao'ji 3
 破坏盾牌 po'huai'dun'pai 3
 破坏神之杖 po'huai'shen'zhi'zhang 3
 破坏神之肩 po'huai'shen'zhi'jian 3
 破坏神之门 po'huai'shen'zhi'men 3
 破坏神像 po'huai'shen'xiang 3
 破坏神冲 po'huai'shen'chong 3
-破坏神戒指 po'huai'shen'jie'zhi 3
+破坏神拉尔戈 po'huai'shen'la'er'ge 3
 破坏神拳 po'huai'shen'quan 3
 破坏神斩 po'huai'shen'zhan 3
 破坏神的星尘 po'huai'shen'de'xing'chen 3
@@ -31431,6 +31782,7 @@
 磁赤铁矿 ci'chi'tie'kuang 3
 磁铁 ci'tie 3
 磨砂玻璃板 mo'sha'bo'li'ban 3
+磨难 mo'nan 3
 磨齿兽 mo'chi'shou 3
 磷虾 lin'xia 3
 磷虾肉笼 lin'xia'rou'long 3
@@ -31518,11 +31870,15 @@
 祝福之路 zhu'fu'zhi'lu 3
 祝福人 zhu'fu'ren 3
 祝福圣火 zhu'fu'sheng'huo 3
+祝福天球 zhu'fu'tian'qiu 3
 祝福巧克力 zhu'fu'qiao'ke'li 3
 祝福戒指 zhu'fu'jie'zhi 3
 祝福礼盒 zhu'fu'li'he 3
 祝福耳坠 zhu'fu'er'zhui 3
+神之交错 shen'zhi'jiao'cuo 3
+神之十字 shen'zhi'shi'zi 3
 神之手 shen'zhi'shou 3
+神之神圣 shen'zhi'shen'sheng 3
 神之究极 shen'zhi'jiu'ji 3
 神仆 shen'pu 3
 神仙鱼 shen'xian'yu 3
@@ -31606,6 +31962,7 @@
 神意之地 shen'yi'zhi'di 3
 神我寺 shen'wo'si 3
 神我鱼 shen'wo'yu 3
+神戒指 shen'jie'zhi 3
 神技 shen'ji 3
 神拳之痕 shen'quan'zhi'hen 3
 神拳痕 shen'quan'hen 3
@@ -31652,9 +32009,11 @@
 神灵圣域放浪神古神殿 shen'ling'sheng'yu'fang'lang'shen'gu'shen'dian 3
 神炎 shen'yan 3
 神界石 shen'jie'shi 3
+神的使者 shen'de'shi'zhe 3
 神益 shen'yi 3
 神眼 shen'yan 3
 神祝祷 shen'zhu'dao 3
+神祸 shen'huo 3
 神秘 shen'mi 3
 神秘二分 shen'mi'er'fen 3
 神秘以太体 shen'mi'yi'tai'ti 3
@@ -31694,6 +32053,7 @@
 神谕苦鱼 shen'yu'ku'yu 3
 神谕蟹 shen'yu'xie 3
 神谕邪鸟 shen'yu'xie'niao 3
+神谱 shen'pu 3
 神通力 shen'tong'li 3
 神通骑 shen'tong'qi 3
 神速 shen'su 3
@@ -31811,6 +32171,7 @@
 禁地优雷卡 jin'di'you'lei'ka 3
 禁地优雷卡 jin'di'you'lei'qia 3
 禁忌之门 jin'ji'zhi'men 3
+禁忌因子 jin'ji'yin'zi 3
 禁忌城邦玛哈 jin'ji'cheng'bang'ma'ha 3
 禁断的记忆 jin'duan'de'ji'yi 3
 禁绝幻想 jin'jue'huan'xiang 3
@@ -31839,6 +32200,8 @@
 福德狭路 fu'de'xia'lu 3
 福德的试炼 fu'de'de'shi'lian 3
 福星 fu'xing 3
+福润艾欧泽亚 fu'run'ai'ou'ze'ya 3
+福润艾欧泽亚 fu'run'yi'ou'ze'ya 3
 福隆戴尔药学院 fu'long'dai'er'yao'xue'yuan 3
 福隆戴尔药学院儿科病房 fu'long'dai'er'yao'xue'yuan'er'ke'bing'fang 3
 福音 fu'yin 3
@@ -32444,6 +32807,7 @@
 窜地鼠 cuan'de'shu 3
 窜地鼠 cuan'di'shu 3
 窥视鱼 kui'shi'yu 3
+立体模型的素材 li'ti'mo'xing'de'su'cai 3
 立体魔法阵 li'ti'mo'fa'zhen 3
 立式招牌 li'shi'zhao'pai 3
 立方体射线 li'fang'ti'she'xian 3
@@ -32458,6 +32822,7 @@
 站裂斩 zhan'lie'zhan 3
 竜宮城 long'gong'cheng 3
 竜宮城 neng'gong'cheng 3
+竞技布 jing'ji'bu 3
 竞拍所 jing'pai'suo 3
 竞赛柜台 jing'sai'gui'tai 3
 竞赛装甲 jing'sai'zhuang'jia 3
@@ -32756,7 +33121,9 @@
 箭头十字 jian'tou'shi'zi 3
 箭木枝 jian'mu'zhi 3
 箭毒 jian'du 3
+箭矢风暴 jian'shi'feng'bao 3
 箭螺 jian'luo 3
+箭踪 jian'zong 3
 箭雨 jian'yu 3
 箭雨风暴 jian'yu'feng'bao 3
 箱龟 xiang'gui 3
@@ -32788,6 +33155,8 @@
 米果 mi'guo 3
 米梅特葫芦 mi'mei'te'hu'lu 3
 米梅特葫芦种子 mi'mei'te'hu'lu'zhong'zi 3
+米灰色地毯 mi'hui'se'di'tan 3
+米灰色地毯 mi'hui'shai'di'tan 3
 米特里达梯 mi'te'li'da'ti 3
 米特隆院 mi'te'long'yuan 3
 米罗东 mi'luo'dong 3
@@ -33274,6 +33643,7 @@
 红月 hong'yue 3
 红月巨像 hong'yue'ju'xiang 3
 红月油纸伞 hong'yue'you'zhi'san 3
+红月深处 hong'yue'shen'chu 3
 红木原木 hong'mu'yuan'mu 3
 红木双层床 hong'mu'shuang'ceng'chuang 3
 红木木材 hong'mu'mu'cai 3
@@ -33620,6 +33990,7 @@
 纳尔之门 na'er'zhi'men 3
 纳尔尖啸 na'er'jian'xiao 3
 纳尔札尔 na'er'zha'er 3
+纳尔札尔之公正 na'er'zha'er'zhi'gong'zheng 3
 纳尔札尔护符 na'er'zha'er'hu'fu 3
 纳尔札尔教团讲台 na'er'zha'er'jiao'tuan'jiang'tai 3
 纳尔札尔的加护 na'er'zha'er'de'jia'hu 3
@@ -33973,6 +34344,7 @@
 继业者飞翼 ji'ye'zhe'fei'yi 3
 继业者魔导书 ji'ye'zhe'mo'dao'shu 3
 继业者魔导典 ji'ye'zhe'mo'dao'dian 3
+继续前进 ji'xu'qian'jin 3
 续剑 xu'jian 3
 续斩 xu'zhan 3
 绮衣夹克 qi'yi'jia'ke 3
@@ -34052,6 +34424,7 @@
 维拉尔 wei'la'er 3
 维持 wei'chi 3
 维持判决 wei'chi'pan'jue 3
+维持否决 wei'chi'fou'jue 3
 维持守势的剑术师 wei'chi'shou'shi'de'jian'shu'shi 3
 维斯之耳 wei'si'zhi'er 3
 维斯凯特 wei'si'kai'te 3
@@ -34261,6 +34634,8 @@
 绿玉陆蟹 lu'yu'lu'xie 3
 绿玉陆蟹 lv'yu'liu'xie 3
 绿玉陆蟹 lv'yu'lu'xie 3
+绿电气石神兵 lu'dian'qi'shi'shen'bing 3
+绿电气石神兵 lv'dian'qi'shi'shen'bing 3
 绿瞳列传 lu'tong'lie'zhuan 3
 绿瞳列传 lv'tong'lie'zhuan 3
 绿瞳列传半成品 lu'tong'lie'zhuan'ban'cheng'pin 3
@@ -34329,6 +34704,8 @@
 缓慢道 huan'man'dao 3
 缓流之路 huan'liu'zhi'lu 3
 缓罪剑 huan'zui'jian 3
+缓解腰痛必需品的素材 huan'jie'yao'tong'bi'xu'pin'de'su'cai 3
+缓解腰痛的必需品 huan'jie'yao'tong'de'bi'xu'pin 3
 编目司书 bian'mu'si'shu 3
 缚影 fu'ying 3
 缚束 fu'shu 3
@@ -34745,6 +35122,25 @@
 翟尔 di'er 3
 翟尔 zhai'er 3
 翠之心 cui'zhi'xin 3
+翠光之盾 cui'guang'zhi'dun 3
+翠光刺剑 cui'guang'ci'jian 3
+翠光咒杖 cui'guang'zhou'zhang 3
+翠光圆月轮 cui'guang'yuan'yue'lun 3
+翠光屠刀 cui'guang'tu'dao 3
+翠光巨剑 cui'guang'ju'jian 3
+翠光战斧 cui'guang'zhan'fu 3
+翠光手半剑 cui'guang'shou'ban'jian 3
+翠光手枪 cui'guang'shou'qiang 3
+翠光指虎 cui'guang'zhi'hu 3
+翠光武士刀 cui'guang'wu'shi'dao 3
+翠光牧杖 cui'guang'mu'zhang 3
+翠光锯刃 cui'guang'ju'ren 3
+翠光长弓 cui'guang'chang'gong 3
+翠光长弓 cui'guang'zhang'gong 3
+翠光骑士武具 cui'guang'qi'shi'wu'ju 3
+翠光魔导书 cui'guang'mo'dao'shu 3
+翠光魔导典 cui'guang'mo'dao'dian 3
+翠光黄道仪 cui'guang'huang'dao'yi 3
 翠意小径 cui'yi'xiao'jing 3
 翠晶鱼 cui'jing'yu 3
 翠水乡 cui'shui'xiang 3
@@ -35206,6 +35602,7 @@
 胡萝卜怪兽 hu'luo'bo'guai'shou 3
 胡萝卜所 hu'luo'bo'suo 3
 胡萝卜毁灭 hu'luo'bo'hui'mie 3
+胡萝卜阳伞 hu'luo'bo'yang'san 3
 胡蜂 hu'feng 3
 胡蜂巢 hu'feng'chao 3
 胡蜂王 hu'feng'wang 3
@@ -35494,6 +35891,7 @@
 自我意识 zi'wo'yi'shi 3
 自我数据 zi'wo'shu'ju 3
 自我概念崩坏 zi'wo'gai'nian'beng'huai 3
+自我毁灭 zi'wo'hui'mie 3
 自我诊断系统 zi'wo'zhen'duan'xi'tong 3
 自控化奇美拉 zi'kong'hua'ji'mei'la 3
 自控化奇美拉 zi'kong'hua'qi'mei'la 3
@@ -35682,6 +36080,7 @@
 舰载浮游炮 jian'zai'fu'you'pao 3
 舰首构造群 jian'shou'gou'zao'qun 3
 舷梯门 xian'ti'men 3
+舷窗隔离墙 xian'chuang'ge'li'qiang 3
 船内魔路 chuan'nei'mo'lu 3
 船医长 chuan'yi'chang 3
 船医长 chuan'yi'zhang 3
@@ -35857,6 +36256,8 @@
 艾欧泽亚百科全书 yi'ou'ze'ya'bai'ke'quan'shu 3
 艾欧泽亚的守护者 ai'ou'ze'ya'de'shou'hu'zhe 3
 艾欧泽亚的守护者 yi'ou'ze'ya'de'shou'hu'zhe 3
+艾欧泽亚神话 ai'ou'ze'ya'shen'hua 3
+艾欧泽亚神话 yi'ou'ze'ya'shen'hua 3
 艾欧泽亚陆行鸟 ai'ou'ze'ya'liu'hang'niao 3
 艾欧泽亚陆行鸟 ai'ou'ze'ya'liu'heng'niao 3
 艾欧泽亚陆行鸟 ai'ou'ze'ya'liu'xing'niao 3
@@ -35986,6 +36387,7 @@
 芭蕉乌贼 ba'jiao'wu'zei 3
 芯片音乐版 xin'pian'yin'yue'ban 3
 花丛 hua'cong 3
+花亭 hua'ting 3
 花侯爵凯旋路 hua'hou'jue'kai'xuan'lu 3
 花冠 hua'guan 3
 花冠鮨 hua'guan'yi 3
@@ -36230,6 +36632,7 @@
 苦痛核爆 ku'tong'he'bao 3
 苦痛核爆 ku'tong'hu'bao 3
 苦痛酸沼 ku'tong'suan'zhao 3
+苦痛锁链 ku'tong'suo'lian 3
 苦痛魔风 ku'tong'mo'feng 3
 苦笑 ku'xiao 3
 苦苔 ku'tai 3
@@ -36309,7 +36712,7 @@
 茂鲨 mao'sha 3
 范式 fan'shi 3
 茄子 qie'zi 3
-茄子镶桓娑肉 qie'zi'xiang'huan'suo'rou 3
+茄子镶桓娑鸟肉 qie'zi'xiang'huan'suo'niao'rou 3
 茄子骑士 qie'zi'qi'shi 3
 茄子骑士种子 qie'zi'qi'shi'zhong'zi 3
 茄子骑士花瓶 qie'zi'qi'shi'hua'ping 3
@@ -36476,6 +36879,8 @@
 荡悠悠笛 dang'you'you'di 3
 荣光撞击 rong'guang'zhuang'ji 3
 荣光魔花 rong'guang'mo'hua 3
+荣华古钱 rong'hua'gu'qian 3
+荣华神域塔利亚 rong'hua'shen'yu'ta'li'ya 3
 荣福直观 rong'fu'zhi'guan 3
 荣耀 rong'yao 3
 荣耀之剑 rong'yao'zhi'jian 3
@@ -36490,6 +36895,7 @@
 荣誉野挖掘地 rong'yu'ye'wa'jue'di 3
 荣誉野营地 rong'yu'ye'ying'de 3
 荣誉野营地 rong'yu'ye'ying'di 3
+荧光死亡蠕虫 ying'guang'si'wang'ru'chong 3
 荧光池 ying'guang'chi 3
 荧光洞 ying'guang'dong 3
 荧光洞 ying'guang'tong 3
@@ -36508,6 +36914,7 @@
 莉亚维娜 li'ya'wei'nuo 3
 莉兹贝丝 li'ci'bei'si 3
 莉兹贝丝 li'zi'bei'si 3
+莉姆莱茵之敕令 li'mu'lai'yin'zhi'chi'ling 3
 莉娜 li'na 3
 莉娜 li'nuo 3
 莉瑟 li'se 3
@@ -36548,6 +36955,7 @@
 莫古力室内鞋 mo'gu'li'shi'nei'xie 3
 莫古力家臣团 mo'gu'li'jia'chen'tuan 3
 莫古力拖鞋 mo'gu'li'tuo'xie 3
+莫古力族 mo'gu'li'zu 3
 莫古力的王冠 mo'gu'li'de'wang'guan 3
 莫古力绿雕 mo'gu'li'lu'diao 3
 莫古力绿雕 mo'gu'li'lv'diao 3
@@ -36995,6 +37403,7 @@
 落地沙发 luo'di'sha'fa 3
 落地海盗 luo'di'hai'dao 3
 落地灯 luo'di'deng 3
+落山箭 luo'shan'jian 3
 落岩 la'yan 3
 落岩 lao'yan 3
 落岩 luo'yan 3
@@ -37430,6 +37839,8 @@
 蔚蓝眼 yu'lan'yan 3
 蔚蓝蜘蛛 wei'lan'zhi'zhu 3
 蔚蓝蜘蛛 yu'lan'zhi'zhu 3
+蔬菜券 shu'cai'quan 3
+蔬菜券 shu'cai'xuan 3
 蔬菜园 shu'cai'yuan 3
 蔬菜摊 shu'cai'tan 3
 蔬菜架 shu'cai'jia 3
@@ -37446,6 +37857,7 @@
 蔷薇骑兵团的粮草 qiang'wei'qi'bing'tuan'de'liang'cao 3
 蔽日的约定之锤 bi'ri'de'yue'ding'zhi'chui 3
 蔽目之影 bi'mu'zhi'ying 3
+蕨类内墙 jue'lei'nei'qiang 3
 蕨花 jue'hua 3
 蕾伊 lei'yi 3
 蕾击 lei'ji 3
@@ -37549,6 +37961,7 @@
 虚像之眼阿里玛斯毗 xu'xiang'zhi'yan'a'li'ma'si'pi 3
 虚像之眼阿里玛斯毗 xu'xiang'zhi'yan'e'li'ma'si'pi 3
 虚兵雷姆普里克斯 xu'bing'lei'mu'pu'li'ke'si 3
+虚器 xu'qi 3
 虚声的阿托莫斯 xu'sheng'de'a'tuo'mo'si 3
 虚声的阿托莫斯 xu'sheng'de'e'tuo'mo'si 3
 虚张声势 xu'zhang'sheng'shi 3
@@ -37630,6 +38043,14 @@
 虚无鲈 xu'wu'lu 3
 虚无鳞龙 xu'mo'lin'long 3
 虚无鳞龙 xu'wu'lin'long 3
+虚月 xu'yue 3
+虚月上级恶魔 xu'yue'shang'ji'e'mo 3
+虚月古恶魔 xu'yue'gu'e'mo 3
+虚月帕诺普特 xu'yue'pa'nuo'pu'te 3
+虚月扎哈克 xu'yue'za'ha'ke 3
+虚月扎哈克 xu'yue'zha'ha'ke 3
+虚月洪巴巴 xu'yue'hong'ba'ba 3
+虚月灾祸之瞳 xu'yue'zai'huo'zhi'tong 3
 虚构 xu'gou 3
 虚枪 xu'qiang 3
 虚焰弹怪 xu'yan'dan'guai 3
@@ -37717,6 +38138,7 @@
 蚁狮 yi'shi 3
 蚁狮伏兵 yi'shi'fu'bing 3
 蚁狮蛞蝓 yi'shi'kuo'yu 3
+蚁狮行军 yi'shi'xing'jun 3
 蚁酸 yi'suan 3
 蚁鹰蜂 yi'ying'feng 3
 蚂螂 ma'lang 3
@@ -37818,6 +38240,7 @@
 蛋白石原石 dan'bai'shi'yuan'shi 3
 蛋白石虾 dan'bai'dan'xia 3
 蛋白石虾 dan'bai'shi'xia 3
+蛋白脂鲤 dan'bai'zhi'li 3
 蛋糕托盘 dan'gao'tuo'pan 3
 蛋黄冲击 dan'huang'chong'ji 3
 蛋黄酱 dan'huang'jiang 3
@@ -37924,6 +38347,7 @@
 蜜蜂云 mi'feng'yun 3
 蜜蜂群 mi'feng'qun 3
 蜜言妖 mi'yan'yao 3
+蜡封信纸套装 la'feng'xin'zhi'tao'zhuang 3
 蜡封牧场 la'feng'mu'chang 3
 蜡烛组合 la'zhu'zu'he 3
 蜥兽浑咕噜卫 xi'shou'hun'gu'lu'wei 3
@@ -38012,6 +38436,7 @@
 螃蟹丸子 pang'xie'wan'zi 3
 融光解除 rong'guang'jie'chu 3
 融冰矿怪虫 rong'bing'kuang'guai'chong 3
+融化气泡 rong'hua'qi'pao 3
 融合 rong'he 3
 融合体 rong'he'ti 3
 融合冰环 rong'he'bing'huan 3
@@ -38696,6 +39121,7 @@
 西帕希尖头靴 xi'pa'xi'jian'tou'xue 3
 西帕希衬衫 xi'pa'xi'chen'shan 3
 西德 xi'de 3
+西德尼亚丘灵 xi'de'ni'ya'qiu'ling 3
 西德尼亚丘陵 xi'de'ni'ya'qiu'ling 3
 西德的记忆空间 xi'de'de'ji'yi'kong'jian 3
 西拉 xi'la 3
@@ -38970,7 +39396,6 @@
 诅咒 zu'zhou 3
 诅咒之嚎 zu'zhou'zhi'hao 3
 诅咒之声 zu'zhou'zhi'sheng 3
-诅咒之杖 zu'zhou'zhi'zhang 3
 诅咒之缚 zu'zhou'zhi'fu 3
 诅咒剑 zu'zhou'jian 3
 诅咒发动 zu'zhou'fa'dong 3
@@ -39116,6 +39541,8 @@
 诺莫特尔 nuo'mo'te'er 3
 诺菲卡 nuo'fei'ka 3
 诺菲卡 nuo'fei'qia 3
+诺菲卡之丰饶 nuo'fei'ka'zhi'feng'rao 3
+诺菲卡之丰饶 nuo'fei'qia'zhi'feng'rao 3
 诺菲卡护符 nuo'fei'ka'hu'fu 3
 诺菲卡护符 nuo'fei'qia'hu'fu 3
 诺菲卡槲寄生 nuo'fei'ka'hu'ji'sheng 3
@@ -39206,6 +39633,8 @@
 象魔鼻鱼 xiang'mo'bi'yu 3
 象鼻抽打 xiang'bi'chou'da 3
 象鼻狮大桥 xiang'bi'shi'da'qiao 3
+象鼻狮强灵药 xiang'bi'shi'jiang'ling'yao 3
+象鼻狮强灵药 xiang'bi'shi'qiang'ling'yao 3
 象鼻碎击 xiang'bi'sui'ji 3
 豪剑斩破 hao'jian'zhan'po 3
 豪剑激烈斩 hao'jian'ji'lie'zhan 3
@@ -39505,6 +39934,7 @@
 贯穿箭 guan'chuan'jian 3
 贯通刺 guan'tong'ci 3
 贯雷枪布里欧纳克 guan'lei'qiang'bu'li'ou'na'ke 3
+贰之体势 er'zhi'ti'shi 3
 贴身背心 tie'shen'bei'xin 3
 贴金内墙 tie'jin'nei'qiang 3
 贴金地板 tie'jin'di'ban 3
@@ -39670,6 +40100,7 @@
 赤红装甲 chi'hong'zhuang'jia 3
 赤红诺言 chi'hong'nuo'yan 3
 赤红骑士帽 chi'hong'qi'shi'mao 3
+赤翼 chi'yi 3
 赤翼罗羯坨博叉 chi'yi'luo'jie'tuo'bo'cha 3
 赤色海蜘蛛 chi'se'hai'zhi'zhu 3
 赤色海蜘蛛 chi'shai'hai'zhi'zhu 3
@@ -39752,6 +40183,7 @@
 走跳板 zou'tiao'ban 3
 起义 qi'yi 3
 起始准备 qi'shi'zhun'bei 3
+起始的幻域 qi'shi'de'huan'yu 3
 起居室 qi'ju'shi 3
 起床闹钟 qi'chuang'nao'zhong 3
 起源 qi'yuan 3
@@ -39871,6 +40303,8 @@
 超越者之力 chao'yue'zhe'zhi'li 3
 超重压 chao'zhong'ya 3
 超链回环 chao'lian'hui'huan 3
+超链放出 chao'lian'fang'chu 3
+超链放射 chao'lian'fang'she 3
 超链爆发 chao'lian'bao'fa 3
 超链理论 chao'lian'li'lun 3
 超雷击 chao'lei'ji 3
@@ -40238,6 +40672,9 @@
 达因斯莱瓦追踪型 da'yin'si'lai'wa'zhui'zong'xing 3
 达奇希奥 da'ji'xi'ao 3
 达奇希奥 da'qi'xi'ao 3
+达姆希安兵蚁 da'mu'xi'an'bing'yi 3
+达姆希安工蚁 da'mu'xi'an'gong'yi 3
+达姆希安蚁狮 da'mu'xi'an'yi'shi 3
 达尔里阿达号防卫装置 da'er'li'a'da'hao'fang'wei'zhuang'zhi 3
 达尔里阿达号防卫装置 da'er'li'e'da'hao'fang'wei'zhuang'zhi 3
 达尔马斯卡垂褶上装 da'er'ma'si'ka'chui'zhe'shang'zhuang 3
@@ -40347,6 +40784,7 @@
 运石魔石精 yun'shi'mo'dan'jing 3
 运石魔石精 yun'shi'mo'shi'jing 3
 运筹帷幄 yun'chou'wei'wo 3
+运行星 yun'xing'xing 3
 运行程序 yun'xing'cheng'xu 3
 运货席兹 yun'huo'xi'ci 3
 运货席兹 yun'huo'xi'zi 3
@@ -40374,6 +40812,7 @@
 近地爆发 jin'de'bao'fa 3
 近地爆发 jin'di'bao'fa 3
 近思的魔击 jin'si'de'mo'ji 3
+近距离对话 jin'ju'li'dui'hua 3
 返回 fan'hui 3
 返回磁石 fan'hui'ci'shi 3
 返破碎波 fan'po'sui'bo 3
@@ -40402,6 +40841,7 @@
 远古之龙 yuan'gu'zhi'long 3
 远古激震 yuan'gu'ji'zhen 3
 远古的天空 yuan'gu'de'tian'kong 3
+远古的昊空 yuan'gu'de'hao'kong 3
 远古的星空 yuan'gu'de'xing'kong 3
 远古龙炎冲 yuan'gu'long'yan'chong 3
 远射 yuan'she 3
@@ -40423,6 +40863,7 @@
 远见的魔击 yuan'jian'de'mo'ji 3
 远角犀 yuan'jiao'xi 3
 远角犀 yuan'jue'xi 3
+远距离对话 yuan'ju'li'dui'hua 3
 远雷 yuan'lei 3
 违令 wei'ling 3
 违法毒药货箱 wei'fa'du'yao'huo'xiang 3
@@ -40787,6 +41228,8 @@
 造反的异端审问官 zao'fan'de'yi'duan'shen'wen'guan 3
 造反的神殿骑士 zao'fan'de'shen'dian'qi'shi 3
 造山 zao'shan 3
+造山乱流 zao'shan'luan'liu 3
+造山震动 zao'shan'zhen'dong 3
 造山风暴 zao'shan'feng'bao 3
 造泥球 zao'ni'qiu 3
 造物院 zao'wu'yuan 3
@@ -41185,6 +41628,8 @@
 采草药的女孩 cai'cao'yao'de'nv'hai 3
 采贝洞 cai'bei'dong 3
 采贝洞 cai'bei'tong 3
+采贝洞附近 cai'bei'dong'fu'jin 3
+采贝洞附近 cai'bei'tong'fu'jin 3
 采集工具的素材 cai'ji'gong'ju'de'su'cai 3
 采集环境 cai'ji'huan'jing 3
 采集红票的票据 cai'ji'hong'piao'de'piao'ju 3
@@ -41333,6 +41778,8 @@
 重炎击 chong'yan'ji 3
 重炎击 zhong'yan'ji 3
 重炮 zhong'pao 3
+重热波 chong're'bo 3
+重热波 zhong're'bo 3
 重爆咒 chong'bao'zhou 3
 重爆咒 zhong'bao'zhou 3
 重爆炮 chong'bao'bao 3
@@ -41499,6 +41946,7 @@
 野种蛛蝎 ye'chong'zhu'xie 3
 野种蛛蝎 ye'zhong'zhu'xie 3
 野羚羊 ye'ling'yang 3
+野草草丛 ye'cao'cao'cong 3
 野营地内门 ye'ying'de'nei'men 3
 野营地内门 ye'ying'di'nei'men 3
 野营地前庭 ye'ying'de'qian'ting 3
@@ -41703,6 +42151,7 @@
 金箔天龙武士盔 jin'bo'tian'long'wu'shi'kui 3
 金箔奔马武士盔 jin'bo'ben'ma'wu'shi'kui 3
 金箔笠松内墙 jin'bo'li'song'nei'qiang 3
+金箔龙虾 jin'bo'long'xia 3
 金粉 jin'fen 3
 金织内墙 jin'zhi'nei'qiang 3
 金绿宝石兽 jin'lu'bao'shi'shou 3
@@ -43134,6 +43583,8 @@
 阿尔卡斯 e'er'qia'si 3
 阿尔基克 a'er'ji'ke 3
 阿尔基克 e'er'ji'ke 3
+阿尔基克之重力 a'er'ji'ke'zhi'zhong'li 3
+阿尔基克之重力 e'er'ji'ke'zhi'zhong'li 3
 阿尔基克和妮美雅 a'er'ji'ke'he'ni'mei'ya 3
 阿尔基克和妮美雅 a'er'ji'ke'hu'ni'mei'ya 3
 阿尔基克和妮美雅 a'er'ji'ke'huo'ni'mei'ya 3
@@ -43176,6 +43627,10 @@
 阿尔扎达尔守护者 a'er'zha'da'er'shou'hu'zhe 3
 阿尔扎达尔守护者 e'er'za'da'er'shou'hu'zhe 3
 阿尔扎达尔守护者 e'er'zha'da'er'shou'hu'zhe 3
+阿尔扎达尔宝物地毯 a'er'za'da'er'bao'wu'di'tan 3
+阿尔扎达尔宝物地毯 a'er'zha'da'er'bao'wu'di'tan 3
+阿尔扎达尔宝物地毯 e'er'za'da'er'bao'wu'di'tan 3
+阿尔扎达尔宝物地毯 e'er'zha'da'er'bao'wu'di'tan 3
 阿尔扎达尔庙 a'er'za'da'er'miao 3
 阿尔扎达尔庙 a'er'zha'da'er'miao 3
 阿尔扎达尔庙 e'er'za'da'er'miao 3
@@ -43298,10 +43753,10 @@
 阿尔马斯提哔叽 e'er'ma'si'ti'bi'ji 3
 阿尔马斯提手套 a'er'ma'si'ti'shou'tao 3
 阿尔马斯提手套 e'er'ma'si'ti'shou'tao 3
-阿尔马斯提毛 a'er'ma'si'di'mao 3
-阿尔马斯提毛 a'er'ma'si'ti'mao 3
-阿尔马斯提毛 e'er'ma'si'di'mao 3
-阿尔马斯提毛 e'er'ma'si'ti'mao 3
+阿尔马斯提毛发 a'er'ma'si'di'mao'fa 3
+阿尔马斯提毛发 a'er'ma'si'ti'mao'fa 3
+阿尔马斯提毛发 e'er'ma'si'di'mao'fa 3
+阿尔马斯提毛发 e'er'ma'si'ti'mao'fa 3
 阿尼德罗冰海天使 a'ni'de'luo'bing'hai'tian'shi 3
 阿尼德罗冰海天使 e'ni'de'luo'bing'hai'tian'shi 3
 阿尼德罗刺鱼师 a'ni'de'luo'ci'yu'shi 3
@@ -43522,6 +43977,8 @@
 阿波逻罗 e'bo'luo'luo 3
 阿泽玛 a'ze'ma 3
 阿泽玛 e'ze'ma 3
+阿泽玛之光辉 a'ze'ma'zhi'guang'hui 3
+阿泽玛之光辉 e'ze'ma'zhi'guang'hui 3
 阿泽玛玫瑰 a'ze'ma'mei'gui 3
 阿泽玛玫瑰 e'ze'ma'mei'gui 3
 阿泽玛玫瑰种子 a'ze'ma'mei'gui'zhong'zi 3
@@ -44027,6 +44484,10 @@
 降蛇 jiang'she 3
 降蛇 xiang'she 3
 降雪 jiang'xue 3
+降魔弹 jiang'mo'dan 3
+降魔弹 jiang'mo'tan 3
+降魔弹 xiang'mo'dan 3
+降魔弹 xiang'mo'tan 3
 降龙爆火 xiang'long'bao'huo 3
 限制器减档 xian'zhi'qi'jian'dang 3
 限制解除 xian'zhi'jie'chu 3
@@ -44073,6 +44534,7 @@
 险山灵砂 xian'shan'ling'sha 3
 险恶 xian'e 3
 险技 xian'ji 3
+陪审团否决 pei'shen'tuan'fou'jue 3
 陪审石面 pei'shen'dan'mian 3
 陪审石面 pei'shen'shi'mian 3
 陪练人偶 pei'lian'ren'ou 3
@@ -44102,6 +44564,8 @@
 隆卡剑 long'qia'jian 3
 隆卡器皿 long'ka'qi'min 3
 隆卡器皿 long'qia'qi'min 3
+隆卡壁炉 long'ka'bi'lu 3
+隆卡壁炉 long'qia'bi'lu 3
 隆卡强止步 long'ka'jiang'zhi'bu 3
 隆卡强止步 long'ka'qiang'zhi'bu 3
 隆卡强止步 long'qia'jiang'zhi'bu 3
@@ -44386,6 +44850,7 @@
 雪花 xue'hua 3
 雪花蛇鳝 xue'hua'she'shan 3
 雪足山鼠 xue'zu'shan'shu 3
+雪顶莫古泡泡冰 xue'ding'mo'gu'pao'pao'bing 3
 雪风 xue'feng 3
 雪风暴 xue'feng'bao 3
 零式 ling'shi 3
@@ -45175,7 +45640,9 @@
 风向陆行鸟 feng'xiang'lu'heng'niao 3
 风向陆行鸟 feng'xiang'lu'xing'niao 3
 风味拌细面 feng'wei'ban'xi'mian 3
+风天 feng'tian 3
 风天奥秘 feng'tian'ao'mi 3
+风天灵峰 feng'tian'ling'feng 3
 风妖笛 feng'yao'di 3
 风妖马刻桑图司 feng'yao'ma'ke'sang'tu'si 3
 风寡妇 feng'gua'fu 3
@@ -45356,6 +45823,7 @@
 飘雪高筒靴 piao'xue'gao'tong'xue 3
 飘龙 piao'long 3
 飙风 biao'feng 3
+飞光 fei'guang 3
 飞刀 fei'dao 3
 飞刺 fei'ci 3
 飞叶快刀 fei'xie'kuai'dao 3
@@ -45383,6 +45851,7 @@
 飞溅榴弹 fei'jian'liu'dan 3
 飞溅爆弹 fei'jian'bao'dan 3
 飞溅爆弹 fei'jian'bao'tan 3
+飞瀑 fei'pu 3
 飞火 fei'huo 3
 飞灵 fei'ling 3
 飞燕 fei'yan 3
@@ -45577,6 +46046,7 @@
 首席机械师套装 shou'xi'ji'xie'shi'tao'zhuang 3
 首席机械师护目镜 shou'xi'ji'xie'shi'hu'mu'jing 3
 首席神官之间 shou'xi'shen'guan'zhi'jian 3
+首席神官的椅子 shou'xi'shen'guan'de'yi'zi 3
 首级剑 shou'ji'jian 3
 首角抢攻 shou'jiao'qiang'gong 3
 首角抢攻 shou'jue'qiang'gong 3
@@ -45739,6 +46209,7 @@
 驱魔卡 qu'mo'qia 3
 驱鹰 qu'ying 3
 驳回判决 bo'hui'pan'jue 3
+驳回否决 bo'hui'fou'jue 3
 驼毛 tuo'mao 3
 驾驶器元件 jia'shi'qi'yuan'jian 3
 驾驶席内部元件 jia'shi'xi'nei'bu'yuan'jian 3
@@ -45962,12 +46433,16 @@
 高洁孤儿团掌柜 gao'jie'gu'er'tuan'zhang'gui 3
 高洁孤儿团掌柜 gao'jie'gu'er'tuan'zhang'ju 3
 高洁孤儿团走私者 gao'jie'gu'er'tuan'zou'si'zhe 3
+高浓度乐园精油 gao'nong'du'le'yuan'jing'you 3
+高浓度火成精油 gao'nong'du'huo'cheng'jing'you 3
+高浓度碧洋精油 gao'nong'du'bi'yang'jing'you 3
 高烈炎 gao'lie'yan 3
 高热水 gao're'shui 3
 高热激光 gao're'ji'guang 3
 高热自爆 gao're'zi'bao 3
 高牢怪龙 gao'lao'guai'long 3
 高空打击 gao'kong'da'ji 3
+高空箭雨 gao'kong'jian'yu 3
 高筋粉 gao'jin'fen 3
 高筒袜 gao'tong'wa 3
 高筒靴 gao'tong'xue 3
@@ -46028,6 +46503,8 @@
 高贝扎四天王之战 gao'bei'zha'si'tian'wang'zhi'zhan 3
 高贝扎的幻影 gao'bei'za'de'huan'ying 3
 高贝扎的幻影 gao'bei'zha'de'huan'ying 3
+高贝扎的记忆 gao'bei'za'de'ji'yi 3
+高贝扎的记忆 gao'bei'zha'de'ji'yi 3
 高贝扎装甲 gao'bei'za'zhuang'jia 3
 高贝扎装甲 gao'bei'zha'zhuang'jia 3
 高质的古布料 gao'zhi'di'gu'bu'liao 3
@@ -46183,10 +46660,13 @@
 魂灵 hun'ling 3
 魂灵风息 hun'ling'feng'xi 3
 魂罚 hun'fa 3
+魅力十足的立体模型 mei'li'shi'zu'de'li'ti'mo'xing 3
 魅惑之光 mei'huo'zhi'guang 3
 魅惑之臂 mei'huo'zhi'bei 3
 魅惑之臂 mei'huo'zhi'bi 3
 魅惑拥抱 mei'huo'yong'bao 3
+魅惑猫咪必需品的素材 mei'huo'mao'mi'bi'xu'pin'de'su'cai 3
+魅惑猫咪的必需品 mei'huo'mao'mi'de'bi'xu'pin 3
 魅惑的叶花 mei'huo'de'xie'hua 3
 魅惑的叶花 mei'huo'de'ye'hua 3
 魅惑的香风 mei'huo'de'xiang'feng 3
@@ -46591,6 +47071,9 @@
 魔法放出 mo'fa'fang'chu 3
 魔法效果解除 mo'fa'xiao'guo'jie'chu 3
 魔法景观 mo'fa'jing'guan 3
+魔法树建造用合成树脂 mo'fa'shu'jian'zao'yong'he'cheng'shu'zhi 3
+魔法树建造用金属材料 mo'fa'shu'jian'zao'yong'jin'shu'cai'liao 3
+魔法树建造许可证书 mo'fa'shu'jian'zao'xu'ke'zheng'shu 3
 魔法棱晶 mo'fa'leng'jing 3
 魔法棱晶 mo'fa'ling'jing 3
 魔法棱晶袋 mo'fa'leng'jing'dai 3
@@ -46602,6 +47085,7 @@
 魔法罐 mo'fa'guan 3
 魔法轮 mo'fa'lun 3
 魔法锤 mo'fa'chui 3
+魔法阵双重展开 mo'fa'zhen'shuang'chong'zhan'kai 3
 魔法阵启动 mo'fa'zhen'qi'dong 3
 魔法阵大波动 mo'fa'zhen'da'bo'dong 3
 魔法阵展开 mo'fa'zhen'zhan'kai 3
@@ -46751,6 +47235,8 @@
 魔邪象族暴徒 mo'xie'xiang'zu'bao'tu 3
 魔里行间 mo'li'hang'jian 3
 魔金锡币 mo'jin'xi'bi 3
+魔针弹 mo'zhen'dan 3
+魔针弹 mo'zhen'tan 3
 魔铐 mo'kao 3
 魔铜沙 mo'tong'sha 3
 魔铜矿 mo'tong'kuang 3
@@ -46835,7 +47321,10 @@
 鲁什芒德纪念医院 lu'shi'mang'de'ji'nian'yi'yuan 3
 鲁克嘶 lu'ke'si 3
 鲁克鸟 lu'ke'niao 3
+鲁冰花 lu'bing'hua 3
 鲁冰花丛 lu'bing'hua'cong 3
+鲁冰花头花 lu'bing'hua'tou'hua 3
+鲁冰花种子 lu'bing'hua'zhong'zi 3
 鲁冰花苗 lu'bing'hua'miao 3
 鲁加凉鞋 lu'jia'liang'xie 3
 鲁加护臂 lu'jia'hu'bei 3
@@ -47284,6 +47773,8 @@
 黄宝石迸裂 huang'bao'shi'beng'lie 3
 黄尾鰤 huang'wei'shi 3
 黄尾鰤 huang'yi'shi 3
+黄尾鱼 huang'wei'yu 3
+黄尾鱼 huang'yi'yu 3
 黄彩鱼 huang'cai'yu 3
 黄战士 huang'zhan'shi 3
 黄新薯 huang'xin'shu 3
@@ -47537,6 +48028,7 @@
 黑暗之钉 hei'an'zhi'ding 3
 黑暗农奴 hei'an'nong'nu 3
 黑暗十字军 hei'an'shi'zi'jun 3
+黑暗帷帐 hei'an'wei'zhang 3
 黑暗极光球 hei'an'ji'guang'qiu 3
 黑暗棕 hei'an'zong 3
 黑暗涌现 hei'an'yong'xian 3
@@ -47547,6 +48039,7 @@
 黑暗的拥抱 hei'an'de'yong'bao 3
 黑暗紫 hei'an'zi 3
 黑暗红 hei'an'hong 3
+黑暗纹章 hei'an'wen'zhang 3
 黑暗绿 hei'an'lv 3
 黑暗蓝 hei'an'lan 3
 黑暗蠢动 hei'an'chun'dong 3
@@ -47944,6 +48437,7 @@
 黑龙剑阿珠达雅 hei'long'jian'a'zhu'da'ya 3
 黑龙剑阿珠达雅 hei'long'jian'e'zhu'da'ya 3
 黑龙炎 hei'long'yan 3
+黑龙闪 hei'long'shan 3
 黒将軍 hei'jiang'jun 3
 黒竜炎 hei'long'yan 3
 黒竜炎 hei'neng'yan 3
