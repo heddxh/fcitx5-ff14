@@ -5,7 +5,7 @@
 - 修改词频为3
 - 修改词库文件格式为`汉字 拼音 频率`
 - `libime_pinyindict "hetero-qq_cn6.45-modified.txt" "ff14.dict"`
-- `ff14.dict ~/.local/share/fcitx5/pinyin/dictionaries`
+- `cp ff14.dict ~/.local/share/fcitx5/pinyin/dictionaries`
 
 或者使用 fish 脚本：
 

@@ -22,3 +22,5 @@ for i in (seq 1 (count $pinyin))
 end
 
 libime_pinyindict $new_file "ff14.dict"
+
+cp ff14.dict ~/.local/share/fcitx5/pinyin/dictionaries
