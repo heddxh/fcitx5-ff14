@@ -18,7 +18,7 @@ set new_file 'hetero-qq_cn6.50-modified.txt'
 
 echo "Writing to $new_file..."
 for i in (seq 1 (count $pinyin))
-    echo $cn[$i] $pinyin[$i] 3 >>$new_file
+    echo $cn[$i] $pinyin[$i] 0 >>$new_file
 end
 
 libime_pinyindict $new_file "ff14.dict"
